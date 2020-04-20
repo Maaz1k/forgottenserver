@@ -43,7 +43,7 @@
 			<flag isalwayspremium="1" />
 		</flags>
 	</group>
-	<group id="3" name="god" access="3" maxdepotitems="0" maxvipentries="200" > -- maybe that? idk
+	<group id="3" name="god" access="1" maxdepotitems="0" maxvipentries="200" > 
 		<flags>
 			<flag cannotusecombat="0" />
 			<flag cannotattackplayer="1" />

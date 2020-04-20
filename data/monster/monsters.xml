@@ -15,14 +15,17 @@
 	<monster name="Merlkin" file="Apes/merlkin.xml" />
 	<monster name="Sibang" file="Apes/sibang.xml" />
 	<monster name="Yeti" file="Apes/yeti.xml" />
-
+	
+	<!-- Hunting room-->
+	<monster name="Hunting Room" file="Hunting room/hunting.xml" />
+	
 	<!-- Arachnids -->
 	<monster name="Crystal Spider" file="Arachnids/crystal_spider.xml" />
 	<monster name="Giant Spider" file="Arachnids/giant_spider.xml" />
 	<monster name="Giant Spider Wyda" file="Arachnids/giant_spider_wyda.xml" />
 	<monster name="Poison Spider" file="Arachnids/poison_spider.xml" />
 	<monster name="Sacred Spider" file="Arachnids/sacred_spider.xml" />
-	<monster name="Sandstone Scorpion" file="Arachnids/sandstone_scorpion.xml" />
+	<monster name="Sandstone Scorpion" file="Arachnids/sandstone_scorpion.xml" /> 
 	<monster name="Scorpion" file="Arachnids/scorpion.xml" />
 	<monster name="Spider" file="Arachnids/spider.xml" />
 	<monster name="Tarantula" file="Arachnids/tarantula.xml" />
