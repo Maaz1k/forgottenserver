@@ -3,6 +3,8 @@
 	<!-- Amazons -->
 	<monster name="Amazon" file="Amazons/amazon.xml" />
 	<monster name="Valkyrie" file="Amazons/valkyrie.xml" />
+	<monster name="Kecman" file="Amazons/kecman.xml"/>
+	<monster name="Spawn Room" file="Amazons/spawnroom.xml"/>
 
 	<!-- Annelids -->
 	<monster name="Carrion Worm" file="Annelids/carrion_worm.xml" />
