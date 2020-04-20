@@ -3,8 +3,7 @@
 	<!-- Amazons -->
 	<monster name="Amazon" file="Amazons/amazon.xml" />
 	<monster name="Valkyrie" file="Amazons/valkyrie.xml" />
-	<monster name="Kecman" file="Amazons/kecman.xml"/>
-	<monster name="Spawn Room" file="Amazons/spawnroom.xml"/>
+	
 
 	<!-- Annelids -->
 	<monster name="Carrion Worm" file="Annelids/carrion_worm.xml" />
@@ -17,6 +16,9 @@
 	<monster name="Merlkin" file="Apes/merlkin.xml" />
 	<monster name="Sibang" file="Apes/sibang.xml" />
 	<monster name="Yeti" file="Apes/yeti.xml" />
+	
+	<!-- Monster Room-->
+	<monster name="Monster Room" file="monsteroom.xml"/>
 	
 	<!-- Hunting room-->
 	<monster name="Hunting Room" file="Hunting.xml" />
