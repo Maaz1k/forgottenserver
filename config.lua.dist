@@ -62,7 +62,7 @@ maxMarketOffersAtATimePerPlayer = 100
 mysqlHost = "127.0.0.1"
 mysqlUser = "tfs"
 mysqlPass = "password"
-mysqlDatabase = "TServer1"
+mysqlDatabase = "tfs"
 mysqlPort = 3306
 mysqlSock = ""
 
