@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Spawn Room" nameDescription="a spawn room" race="blood" experience="60" speed="172" manacost="390">
+	<health now="1" max="1" />
+	<look type="137" head="113" body="120" legs="95" feet="115" corpse="20323" />
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="1" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="1" />
+		<flag convinceable="1" />
+		<flag pushable="1" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="0" />
+		<flag targetdistance="4" />
+		<flag staticattack="90" />
+		<flag runonhealth="0" />
+		<flag canwalkonenergy="0" />
+		<flag canwalkonfire="0" />
+		<flag canwalkonpoison="0" />
+	</flags>
+	<attacks>
+	</attacks>
+	</attacks>
+   <defenses armor="0" defense="0">
+     <defense name="outfit" interval="5000" chance="10" monster="baby wolf" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="knight" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Ghost Knight" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Ghost Rogue" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Black Sheep" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Necrotic Knight" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Necrotic Mage" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Necrotic Rogue" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="rebel orc knight" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="rebel orc mage" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="rebel orc rogue" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="skeleton mage" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="skeleton rogue" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="skeleton knight" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Frost Troll Knight" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Crypt Shambling Elite" duration="5000"/>
+     <defense name="outfit" interval="5000" chance="10" monster="Betrayed Rogue" duration="5000"/>
+   </defenses>
+	</monster>
+	
