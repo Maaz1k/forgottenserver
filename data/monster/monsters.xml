@@ -17,7 +17,7 @@
 	<monster name="Yeti" file="Apes/yeti.xml" />
 	
 	<!-- Hunting room-->
-	<monster name="Hunting Room" file="Hunting/Hunting.xml" />
+	<monster name="Hunting" file="Hunting/Hunting.xml" />
 	
 	<!-- Arachnids -->
 	<monster name="Crystal Spider" file="Arachnids/crystal_spider.xml" />
