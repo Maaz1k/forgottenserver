@@ -879,8 +879,20 @@
 		<monster name="Skeleton" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Skeleton" x="-3" y="5" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="689" centery="79" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="66" centery="80" centerz="8" radius="5">
 		<monster name="Spider" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="695" centery="80" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="682" centery="82" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="688" centery="82" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="107" centery="83" centerz="8" radius="5">
 		<monster name="Wolf" x="3" y="-2" z="8" spawntime="60" />
@@ -889,21 +901,102 @@
 	<spawn centerx="78" centery="84" centerz="8" radius="5">
 		<monster name="Skeleton" x="-5" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="675" centery="87" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="691" centery="87" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="697" centery="87" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="679" centery="89" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="702" centery="90" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="91" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="707" centery="92" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="40" centery="93" centerz="8" radius="5">
 		<monster name="Troll" x="-1" y="-2" z="8" spawntime="60" />
 		<monster name="Troll" x="3" y="0" z="8" spawntime="60" />
 		<monster name="Troll" x="-1" y="2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="702" centery="93" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="689" centery="95" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="695" centery="96" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="704" centery="96" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="96" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="50" centery="97" centerz="8" radius="5">
 		<monster name="Troll" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="681" centery="97" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="713" centery="97" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="686" centery="98" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="62" centery="99" centerz="8" radius="5">
 		<monster name="Troll" x="1" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="99" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="691" centery="100" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="683" centery="101" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="699" centery="101" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="709" centery="101" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="104" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="699" centery="104" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="693" centery="107" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="45" centery="108" centerz="8" radius="5">
 		<monster name="Troll" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Troll" x="1" y="2" z="8" spawntime="60" />
 		<monster name="Troll" x="-2" y="4" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="704" centery="108" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="691" centery="112" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="693" centery="114" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="690" centery="117" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="211" centery="374" centerz="8" radius="5">
 		<monster name="Rotworm" x="4" y="-3" z="8" spawntime="60" />
@@ -1034,8 +1127,73 @@
 		<monster name="Troll" x="2" y="2" z="9" spawntime="60" />
 		<monster name="Troll" x="0" y="4" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="693" centery="102" centerz="9" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="51" centery="103" centerz="9" radius="5">
 		<monster name="Troll" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="706" centery="103" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="710" centery="103" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="714" centery="104" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="695" centery="106" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="681" centery="107" centerz="9" radius="1">
+		<monster name="Rottie the Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="709" centery="107" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="713" centery="107" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="698" centery="110" centerz="9" radius="1">
+		<monster name="Rotworm" x="-1" y="0" z="9" spawntime="60" />
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="713" centery="110" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="710" centery="112" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="696" centery="113" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="692" centery="115" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="698" centery="115" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="696" centery="119" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="697" centery="122" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Rotworm" x="0" y="1" z="9" spawntime="512" />
+	</spawn>
+	<spawn centerx="683" centery="124" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="693" centery="125" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="126" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="682" centery="127" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="692" centery="128" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="226" centery="377" centerz="9" radius="5">
 		<monster name="Rotworm" x="-1" y="-1" z="9" spawntime="60" />
@@ -1149,6 +1307,45 @@
 	</spawn>
 	<spawn centerx="43" centery="104" centerz="10" radius="5">
 		<monster name="Troll" x="-1" y="-1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="712" centery="105" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="712" centery="107" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="709" centery="108" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="684" centery="110" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="708" centery="112" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="705" centery="113" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="686" centery="114" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="701" centery="114" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="696" centery="115" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="693" centery="117" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="688" centery="118" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="686" centery="121" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="682" centery="123" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="124" centery="438" centerz="10" radius="5">
 		<monster name="Ghoul" x="3" y="-2" z="10" spawntime="60" />
