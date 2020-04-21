@@ -144,8 +144,20 @@
 		<monster name="Wasp" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Wasp" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="514" centery="75" centerz="6" radius="1">
+	<spawn centerx="521" centery="75" centerz="6" radius="1">
 		<monster name="Rotworms" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="508" centery="78" centerz="6" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="513" centery="78" centerz="6" radius="1">
+		<monster name="Rotworms" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="518" centery="78" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="516" centery="80" centerz="6" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="84" centery="89" centerz="6" radius="5">
 		<monster name="Rabbit" x="0" y="-1" z="6" spawntime="60" />
