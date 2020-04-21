@@ -1,10 +1,163 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="877" centery="61" centerz="1" radius="1">
+		<monster name="Amazon" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="88" centerz="1" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="888" centery="89" centerz="1" radius="1">
+		<monster name="Amazon" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="90" centerz="1" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="78" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="899" centery="81" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="83" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="867" centery="85" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="898" centery="85" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="905" centery="87" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="89" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="888" centery="90" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="867" centery="91" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="92" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="863" centery="94" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="912" centery="94" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="869" centery="95" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="905" centery="98" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="912" centery="98" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="101" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="911" centery="102" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="106" centerz="2" radius="1">
+		<monster name="Amazon" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
 	<spawn centerx="149" centery="574" centerz="2" radius="5">
 		<monster name="Dragon Lord" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="176" centery="583" centerz="2" radius="5">
 		<monster name="Dragon Lord" x="-1" y="-1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="47" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="51" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="852" centery="54" centerz="3" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="904" centery="56" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="904" centery="63" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="65" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="894" centery="67" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="844" centery="68" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="72" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="75" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="904" centery="75" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="909" centery="75" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="853" centery="76" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="895" centery="76" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="925" centery="76" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="79" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="857" centery="84" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="866" centery="88" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="89" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="918" centery="89" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="850" centery="91" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="863" centery="91" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="854" centery="92" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="869" centery="93" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="94" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="856" centery="96" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="850" centery="98" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="859" centery="100" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="912" centery="108" centerz="3" radius="1">
+		<monster name="Amazon" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="186" centery="572" centerz="3" radius="5">
 		<monster name="Dragon Lord" x="2" y="0" z="3" spawntime="60" />
@@ -16,10 +169,173 @@
 	<spawn centerx="152" centery="596" centerz="3" radius="5">
 		<monster name="Dragon Lord" x="1" y="-1" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="859" centery="46" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="46" centerz="4" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="50" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="876" centery="52" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="867" centery="53" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="55" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="844" centery="56" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="868" centery="56" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="877" centery="58" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="839" centery="64" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="883" centery="66" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="102" centery="67" centerz="4" radius="5">
 		<monster name="Wasp" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Wasp" x="1" y="1" z="4" spawntime="60" />
 		<monster name="Wasp" x="-1" y="2" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="863" centery="68" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="879" centery="69" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="888" centery="70" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="860" centery="72" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="843" centery="74" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="74" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="919" centery="74" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="901" centery="77" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="924" centery="77" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="78" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="889" centery="80" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Amazon" x="1" y="0" z="4" spawntime="768" />
+	</spawn>
+	<spawn centerx="876" centery="81" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="844" centery="82" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="900" centery="82" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="83" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="873" centery="84" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="857" centery="85" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="862" centery="86" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="88" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="857" centery="89" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="90" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="862" centery="91" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="910" centery="92" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="898" centery="93" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="861" centery="94" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="877" centery="94" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="904" centery="94" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="844" centery="95" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="95" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="898" centery="97" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="97" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="912" centery="97" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="98" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="100" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="848" centery="101" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="103" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="103" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="919" centery="103" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="860" centery="105" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="856" centery="106" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="880" centery="108" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="914" centery="111" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="112" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="316" centery="420" centerz="4" radius="5">
 		<monster name="Elf Scout" x="0" y="-3" z="4" spawntime="60" />
@@ -52,9 +368,234 @@
 		<monster name="Dragon" x="-4" y="-2" z="4" spawntime="60" />
 		<monster name="Dragon" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="894" centery="36" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="38" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="864" centery="40" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="41" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="41" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="874" centery="42" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="42" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="846" centery="48" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="928" centery="49" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="51" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="840" centery="53" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="864" centery="54" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="55" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="56" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="56" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="57" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="58" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="831" centery="59" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="850" centery="59" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="60" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="61" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="843" centery="62" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="880" centery="63" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="928" centery="64" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="829" centery="65" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="65" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="102" centery="67" centerz="5" radius="5">
 		<monster name="Wasp" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Wasp" x="0" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="845" centery="68" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="871" centery="68" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="850" centery="73" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="872" centery="73" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="914" centery="73" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="835" centery="74" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="901" centery="74" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="75" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="76" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="916" centery="76" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="867" centery="77" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="78" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="78" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="79" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="901" centery="80" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="837" centery="81" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="872" centery="81" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="82" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="82" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="83" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="916" centery="85" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="86" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="934" centery="87" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="88" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="930" centery="89" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="91" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="91" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="92" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="879" centery="92" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="899" centery="95" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="929" centery="95" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="861" centery="97" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="890" centery="97" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="914" centery="97" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="98" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="927" centery="101" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="906" centery="102" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="889" centery="103" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="840" centery="104" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="866" centery="104" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="104" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="925" centery="106" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="851" centery="108" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="111" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="873" centery="113" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="865" centery="115" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="889" centery="115" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="916" centery="115" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="906" centery="120" centerz="5" radius="1">
+		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="305" centery="349" centerz="5" radius="5">
 		<monster name="Orc Leader" x="1" y="-3" z="5" spawntime="60" />
@@ -140,25 +681,232 @@
 	<spawn centerx="170" centery="595" centerz="5" radius="5">
 		<monster name="Dragon" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="870" centery="56" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="57" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="57" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="895" centery="57" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="60" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="61" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="894" centery="61" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="865" centery="63" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="854" centery="64" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="65" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="102" centery="67" centerz="6" radius="5">
 		<monster name="Wasp" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Wasp" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="918" centery="67" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="873" centery="69" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="70" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="924" centery="70" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="825" centery="73" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="74" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="512" centery="75" centerz="6" radius="1">
+		<monster name="Amazons" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="514" centery="75" centerz="6" radius="1">
 		<monster name="Rotworms" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="826" centery="75" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="75" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="76" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="76" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="76" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="897" centery="77" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="77" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="827" centery="78" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="824" centery="80" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="853" centery="80" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="80" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="828" centery="81" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="898" centery="81" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="870" centery="82" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="892" centery="82" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="912" centery="82" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="868" centery="83" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="830" centery="84" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="854" centery="84" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="873" centery="84" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="826" centery="85" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="85" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="895" centery="86" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="900" centery="87" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="84" centery="89" centerz="6" radius="5">
 		<monster name="Rabbit" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="89" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="909" centery="89" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="827" centery="90" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="91" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="901" centery="91" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="915" centery="91" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="857" centery="92" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="116" centery="93" centerz="6" radius="5">
 		<monster name="Orc" x="1" y="-2" z="6" spawntime="60" />
 		<monster name="Orc" x="-2" y="2" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="878" centery="94" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="919" centery="94" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="129" centery="95" centerz="6" radius="5">
 		<monster name="Orc Spearman" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="870" centery="96" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="96" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="97" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="98" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="901" centery="99" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="858" centery="100" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="100" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="864" centery="101" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="869" centery="101" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="101" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="895" centery="102" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="909" centery="102" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="862" centery="104" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="98" centery="105" centerz="6" radius="5">
 		<monster name="Rabbit" x="-1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="897" centery="105" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="865" centery="106" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="900" centery="106" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="107" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="890" centery="110" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="112" centerz="6" radius="1">
+		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="73" centery="113" centerz="6" radius="5">
 		<monster name="Pig" x="0" y="-2" z="6" spawntime="240" />
