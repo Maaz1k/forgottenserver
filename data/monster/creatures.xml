@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Creatures" nameDescription="creatures" race="blood" experience="0" speed="0" manacost="0">
+<monster name="Hunting Room" nameDescription="a hunting room" race="blood" experience="0" speed="0" manacost="0">
     <health now="100" max="100"/>
     <look type="2" head="95" body="94" legs="94" feet="19" corpse="0"/>
     <targetchange interval="2000" chance="0"/>
