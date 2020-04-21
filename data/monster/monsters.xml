@@ -17,6 +17,9 @@
 	<monster name="Sibang" file="Apes/sibang.xml" />
 	<monster name="Yeti" file="Apes/yeti.xml" />
 	
+	<!-- Rotworms-->
+	<monster name="Rotworms" file="rotworms.xml"/>v
+	
 	<!-- Monster Room-->
 	<monster name="Monster Room" file="monsteroom.xml"/>
 	

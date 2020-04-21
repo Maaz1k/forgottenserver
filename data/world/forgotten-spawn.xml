@@ -144,6 +144,9 @@
 		<monster name="Wasp" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Wasp" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="514" centery="75" centerz="6" radius="1">
+		<monster name="Rotworms" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="84" centery="89" centerz="6" radius="5">
 		<monster name="Rabbit" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -901,45 +904,6 @@
 		<monster name="Troll" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Troll" x="1" y="2" z="8" spawntime="60" />
 		<monster name="Troll" x="-2" y="4" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="93" centery="110" centerz="8" radius="5">
-		<monster name="Rat" x="4" y="-3" z="8" spawntime="60" />
-		<monster name="Rat" x="-2" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="84" centery="118" centerz="8" radius="5">
-		<monster name="Rat" x="-4" y="-3" z="8" spawntime="60" />
-		<monster name="Rat" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="106" centery="120" centerz="8" radius="5">
-		<monster name="Rat" x="5" y="0" z="8" spawntime="60" />
-		<monster name="Rat" x="1" y="3" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="96" centery="121" centerz="8" radius="5">
-		<monster name="Rat" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="79" centery="123" centerz="8" radius="5">
-		<monster name="Cave Rat" x="-2" y="0" z="8" spawntime="60" />
-		<monster name="Rat" x="4" y="5" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="114" centery="128" centerz="8" radius="5">
-		<monster name="Cave Rat" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="83" centery="129" centerz="8" radius="5">
-		<monster name="Cave Rat" x="-1" y="4" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="102" centery="130" centerz="8" radius="5">
-		<monster name="Rat" x="0" y="-2" z="8" spawntime="60" />
-		<monster name="Rat" x="5" y="5" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="90" centery="132" centerz="8" radius="5">
-		<monster name="Rat" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="108" centery="136" centerz="8" radius="5">
-		<monster name="Rat" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="95" centery="142" centerz="8" radius="5">
-		<monster name="Rat" x="2" y="-1" z="8" spawntime="60" />
-		<monster name="Rat" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="211" centery="374" centerz="8" radius="5">
 		<monster name="Rotworm" x="4" y="-3" z="8" spawntime="60" />
