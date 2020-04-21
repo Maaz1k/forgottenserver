@@ -18,6 +18,8 @@
 	<monster name="Yeti" file="Apes/yeti.xml" />
 	<!-- Amazons-->
 	<monster name="Amazons" file="amazons.xml"/>
+	<!--Creatures-->
+	<monster name="Creatures" file="creatures.xml"/>
 	
 	<!-- Rotworms-->
 	<monster name="Rotworms" file="rotworms.xml"/>
