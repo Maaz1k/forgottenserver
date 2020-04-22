@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="test" nameDescription="an amazon" race="blood" experience="60" speed="172" manacost="390">
-	<health now="110" max="110" />
+<monster name="Amazons" nameDescription="an amazon spawn" race="blood" experience="60" speed="172" manacost="390">
+	<health now="1" max="1" />
 	<look type="137" head="113" body="120" legs="95" feet="115" corpse="20323" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="1" />
+		<flag summonable="0" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="1" />
@@ -19,21 +19,22 @@
 		<flag canwalkonfire="0" />
 		<flag canwalkonpoison="0" />
 	</flags>
-	  
-   <defenses armor="0" defense="0">
-     <defense name="outfit" interval="5000" chance="10" monster="Rotworm" duration="5000"/>
-     <defense name="outfit" interval="5000" chance="10" monster="Cyclops" duration="5000"/>
-     <defense name="outfit" interval="5000" chance="10" monster="Orc" duration="5000"/>
-     <defense name="outfit" interval="5000" chance="10" monster="Vampire" duration="5000"/>
-     <defense name="outfit" interval="5000" chance="10" monster="Black Sheep" duration="5000"/>
-     
-  </defenses>
-
+	<attacks>
+		<attack name="melee" interval="2000" min="0" max="-45" />
+		<attack name="physical" interval="2000" chance="15" range="7" min="0" max="-40">
+			<attribute key="shootEffect" value="throwingknife" />
+		</attack>
+	</attacks>
+	<defenses armor="10" defense="10" />
 	<elements>
 		<element physicalPercent="-5" />
 		<element deathPercent="-5" />
 	</elements>
-
+	<voices interval="5000" chance="10">
+		<voice sentence="Yeeee ha!" />
+		<voice sentence="Your head shall be mine!" />
+		<voice sentence="Your head will be mine!" />
+	</voices>
 	<loot>
 		<item name="dagger" chance="80010" />
 		<item id="2229" countmax="2" chance="80000" /><!-- skull -->
