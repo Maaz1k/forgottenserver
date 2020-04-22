@@ -3,7 +3,7 @@
 <!-- Spawns-->
 <monster name="Hunting Room" file="creatures.xml"/>
 <monster name="Trainers" file="trainers.xml">
-<monster name="Towns" file="towns.xml">
+<monster name="Towns" file="towns.xml"/>
 <monster name="Quest Room" file="questroom.xml">
 	<!-- Amazons -->
 	<monster name="Amazon" file="Amazons/amazon.xml" />
