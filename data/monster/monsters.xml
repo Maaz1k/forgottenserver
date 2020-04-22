@@ -10,6 +10,7 @@
  <monster name="Venore" file="venore.xml"/>
  <monster name="Edron" file="edron.xml"/>
  <monster name="Yalahar" file="yalahar.xml"/>
+ <monster name="Dragon Hatchlings" file="dragonhatchlings.xml"/>
  
  
  
