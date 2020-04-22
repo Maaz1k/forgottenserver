@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsters>
 <!-- Spawns-->
-<monster name="Hunting Room" file="creatures.xml"/>
-<monster name="Trainers" file="trainers.xml">
-<monster name="Towns" file="towns.xml"/>
-<monster name="Quest Room" file="questroom.xml">
+ <monster name="Hunting Room" file="creatures.xml"/>
+ <monster name="Trainers" file="trainers.xml">
+ <monster name="Towns" file="towns.xml"/>
+ <monster name="Quest Room" file="questroom.xml"/>
 	<!-- Amazons test -->
 	<monster name="Amazon" file="Amazons/amazon.xml" />
 	<monster name="Valkyrie" file="Amazons/valkyrie.xml" />
