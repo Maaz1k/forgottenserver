@@ -5,7 +5,7 @@
 <monster name="Trainers" file="trainers.xml">
 <monster name="Towns" file="towns.xml"/>
 <monster name="Quest Room" file="questroom.xml">
-	<!-- Amazons -->
+	<!-- Amazons test -->
 	<monster name="Amazon" file="Amazons/amazon.xml" />
 	<monster name="Valkyrie" file="Amazons/valkyrie.xml" />
 	
