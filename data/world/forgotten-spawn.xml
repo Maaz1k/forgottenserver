@@ -745,6 +745,9 @@
 	<spawn centerx="855" centery="74" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="510" centery="75" centerz="6" radius="1">
+		<monster name="Cyclops" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="512" centery="75" centerz="6" radius="1">
 		<monster name="Amazons" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
