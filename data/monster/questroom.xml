@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Quest Room" nameDescription="a quest room" race="blood" experience="200" speed="200" manacost="600">
 	<health now="1" max="1" />
-	<look typeex="1746" corpse="20323"/>
+	<look typeex="1750" corpse="20323"/>
 	<targetchange interval="4000" chance="10" />
 	<flags>
 		<flag summonable="1" />

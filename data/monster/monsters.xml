@@ -5,6 +5,16 @@
  <monster name="Trainers" file="trainers.xml"/>
  <monster name="Towns" file="towns.xml"/>
  <monster name="Quest Room" file="questroom.xml"/>
+ <monster name="Training Monk" file="trainingmonk.xml"/>
+ <monster name="Thais" file="thais.xml"/>
+ <monster name="Venore" file="venore.xml"/>
+ <monster name="Edron" file="edron.xml"/>
+ <monster name="Yalahar" file="yalahar.xml"/>
+ 
+ 
+ 
+ 
+ 
 	<!-- Amazons test -->
 	<monster name="Amazon" file="Amazons/amazon.xml" />
 	<monster name="Valkyrie" file="Amazons/valkyrie.xml" />
@@ -31,8 +41,7 @@
 	
 	
 	
-	<!-- Test-->
-	<monster name="test" file="test.xml"/>
+	
 	
 	<!-- Arachnids -->
 	<monster name="Crystal Spider" file="Arachnids/crystal_spider.xml" />
