@@ -1,0 +1,4 @@
+<npc name="effect" script="data/npc/scripts/effect.lua" autowalk="25" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+  <look type="128" head="0" body="114" legs="114" feet="94" addons="1"/>
+</npc>
