@@ -3,6 +3,9 @@
 	<!-- Decaying tiles -->
 	<movevent event="StepIn" itemid="293" script="decay.lua" />
 	<movevent event="StepIn" itemid="461" script="decay.lua" />
+	<!-- Training -->
+	<movevent event="StepIn" actionid="6969" script="stamina_tile.lua" />
+	<movevent event="StepOut" actionid="6969" script="stamina_tile.lua" />
 
 	<!-- (Depot & Level) tiles -->
 	<movevent event="StepIn" itemid="416" script="tiles.lua" />
