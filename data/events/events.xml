@@ -34,4 +34,6 @@
 	<!-- Monster methods -->
 	<event class="Monster" method="onDropLoot" enabled="1" />
 	<event class="Monster" method="onSpawn" enabled="0" />
+	<!-- Custom -->
+	<globalevent name="effects]" interval="1" event="script" value="effects.lua"/> 
 </events>
