@@ -1,4 +1,4 @@
-local position = {x=1048,y=1010, z=7, stackpos=6}
+local position = {x=1048,y=1010, z=6, stackpos=1}
 local text = {"Tiaptra", "Tiaptra", "Tiaptra"}
 
 function onThink(interval, lastExecution)
