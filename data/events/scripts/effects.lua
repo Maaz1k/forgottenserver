@@ -1,25 +1,6 @@
-local config = {
-positions = {
-["Tiaptra"] = { x = 1048, y = 1010, z = 6 },
-},
+local position = {x=1000,y=1000, z=7, stackpos=1}
+local text = {"Tiaptra", "Tiaptra", "Tiaptra"}
 
-effects = {
-CONST_ME_MAGIC_BLUE,
-CONST_ME_MAGIC_GREEN,
-CONST_ME_MORTAREA
-},
-
-colors = {
-TEXTCOLOR_WHITE,
-TEXTCOLOR_ORANGE,
-TEXTCOLOR_GREEN,
-TEXTCOLOR_BLUE
-}
-}
-function onThink(cid, interval, lastExecution)
-for text, pos in pairs(config.positions) do
-doSendMagicEffect(pos, config.effects[math.random(1, #config.effects)])
-doSendAnimatedText(pos, text, config.colors[math.random(1, #config.colors)])
+function onThink(interval, lastExecution)
+        return doSendAnimatedText(position,text[math.random(1,#text)], math.random(10,66 ) )
 end
-return TRUE
-end 
