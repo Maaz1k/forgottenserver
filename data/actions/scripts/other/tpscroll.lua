@@ -10,3 +10,4 @@ doPlayerSendCancel(cid,"You can't teleport immediately after fight.")
 doSendMagicEffect(ppos,2)
 end
 return 1
+end
