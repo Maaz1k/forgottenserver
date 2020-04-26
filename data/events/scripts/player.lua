@@ -189,12 +189,18 @@ function Player:onReportBug(message, position, category)
 	return true
 end
 
-function Player:onTurn(direction)
-    if self:getDirection() == direction and self:getGroup():getAccess() then
-        local nextPosition = self:getPosition()
-        nextPosition:getNextPosition(direction)
+local times = {}
 
-        self:teleportTo(nextPosition, true)
+function Player:onTurn(direction)
+    if not self:getGroup():getAccess() then
+        return true
+    end
+    local cid = self:getId()
+    if (self:getDirection() == direction) or times[cid] and (os.mtime() - times[cid] < 100) then
+		local pos = self:getPosition()
+		pos:getNextPosition(direction)
+        self:teleportTo(pos, true)
+        times[cid] = os.mtime()
     end
     return true
 end
