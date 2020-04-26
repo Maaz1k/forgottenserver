@@ -5361,6 +5361,7 @@
 	<spawn centerx="682" centery="123" centerz="10" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="395" centery="373" centerz="10" radius="2" />
 	<spawn centerx="124" centery="438" centerz="10" radius="5">
 		<monster name="Ghoul" x="3" y="-2" z="10" spawntime="60" />
 		<monster name="Ghoul" x="-2" y="-1" z="10" spawntime="60" />
