@@ -13,6 +13,7 @@
  <monster name="Dragon Hatchlings" file="dragonhatchlings.xml"/>
  <monster name="Frasirths" file="frasirths.xml"/>
  <monster name="Hannibals" file="hannibals.xml"/>
+ <monster name="Ice Witches" file="icewitches.xml"/>
  
  <!--Custom Monsters-->
  <monster name="Frasirth" file="frasirith.xml"/>
