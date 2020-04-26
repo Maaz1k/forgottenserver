@@ -190,13 +190,12 @@ function Player:onReportBug(message, position, category)
 end
 
 function Player:onTurn(direction)
-    if self:getGroup():getAccess() and self:getDirection() == direction then
+    if self:getDirection() == direction and self:getGroup():getAccess() then
         local nextPosition = self:getPosition()
         nextPosition:getNextPosition(direction)
 
         self:teleportTo(nextPosition, true)
     end
-
     return true
 end
 
