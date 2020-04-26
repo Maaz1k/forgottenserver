@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<monster name="Frasirth" nameDescription="a frasirth" race="blood" experience="9000" speed="400" manacost="0">
+	<health now="7000" max="7000"/>
+	<look type="602" corpse="23351"/>
+	<targetchange interval="4000" chance="10"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="0" max="-520" poison="4"/>
+		<attack name="physical" interval="2000" chance="15" range="7" min="-60" max="-100">
+			<attribute key="shootEffect" value="greenstar"/>
+			
+		</attack>
+		<attack name="earth" interval="1000" chance="10" length="7" spread="0" min="0" max="-750">
+			<attribute key="areaEffect" value="stones" />
+		</attack>
+		<attack name="poisoncondition" interval="2000" chance="10" range="7" min="-150" max="-300">
+			<attribute key="shootEffect" value="poison"/>
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="lifedrain" interval="2000" chance="10" range="7" min="0" max="-210">
+			<attribute key="areaEffect" value="greenshimmer"/>
+		</attack>
+	</attacks>
+	<defenses armor="30" defense="30">
+		<defense name="healing" interval="2000" chance="5" min="0" max="100">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="10"/>
+		<element icePercent="-5"/>
+		<element firePercent="-10"/>
+		<element deathPercent="-5"/>
+	</elements>
+	<immunities>
+		<immunity earth="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Roarr!"/>
+		<voice sentence="Grrr!"/>
+	</voices>
+	<loot>
+		<item id="2148" countmax="180" chance="100000"/>	
+		<item name="terra mantle" chance="5000" />
+		<item name="mother soil" chance="9000" />
+		<item name="lump of earth" chance="100000" />					
+		<item id="7588" chance="8000"/>						
+		<item id="2155" chance="8000" />			
+		<item name="springsprout rod" chance="6000" />
+		
+	</loot>
+</monster>

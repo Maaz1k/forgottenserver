@@ -946,6 +946,18 @@
 	<spawn centerx="414" centery="814" centerz="5" radius="3">
 		<monster name="Scorpion" x="1" y="3" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1014" centery="41" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="41" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="43" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1064" centery="43" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="619" centery="46" centerz="6" radius="1">
 		<monster name="Venore" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -958,8 +970,41 @@
 	<spawn centerx="625" centery="46" centerz="6" radius="1">
 		<monster name="Yalahar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="999" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1016" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1028" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1035" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1045" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1051" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1059" centery="47" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1066" centery="49" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1058" centery="50" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="54" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="870" centery="56" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="56" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="878" centery="57" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
@@ -970,8 +1015,14 @@
 	<spawn centerx="895" centery="57" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1031" centery="59" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="884" centery="60" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="60" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="875" centery="61" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
@@ -979,8 +1030,14 @@
 	<spawn centerx="894" centery="61" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="992" centery="62" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="865" centery="63" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="63" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="854" centery="64" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
@@ -995,6 +1052,12 @@
 	<spawn centerx="918" centery="67" centerz="6" radius="1">
 		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1062" centery="67" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1007" centery="68" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="873" centery="69" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1004,14 +1067,32 @@
 	<spawn centerx="924" centery="70" centerz="6" radius="1">
 		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1016" centery="70" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="70" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="71" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="825" centery="73" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="855" centery="74" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1006" centery="74" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="74" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="506" centery="75" centerz="6" radius="1">
+		<monster name="Hannibals" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="508" centery="75" centerz="6" radius="1">
-		<monster name="Dragon Hatchlings" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Frasirths" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="510" centery="75" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="6" spawntime="60" direction="2" />
@@ -1043,8 +1124,14 @@
 	<spawn centerx="902" centery="77" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1031" centery="77" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="827" centery="78" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="78" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="824" centery="80" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
@@ -1082,6 +1169,15 @@
 	<spawn centerx="873" centery="84" centerz="6" radius="1">
 		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1025" centery="84" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1060" centery="84" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="84" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="826" centery="85" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1090,6 +1186,9 @@
 	</spawn>
 	<spawn centerx="895" centery="86" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1029" centery="86" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="900" centery="87" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
@@ -1115,8 +1214,20 @@
 	<spawn centerx="915" centery="91" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1029" centery="91" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1037" centery="91" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="857" centery="92" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1056" centery="92" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="92" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="116" centery="93" centerz="6" radius="5">
 		<monster name="Orc" x="1" y="-2" z="6" spawntime="60" />
@@ -1127,6 +1238,18 @@
 	</spawn>
 	<spawn centerx="919" centery="94" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1025" centery="94" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="94" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1065" centery="94" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1067" centery="94" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="129" centery="95" centerz="6" radius="5">
 		<monster name="Orc Spearman" x="-1" y="0" z="6" spawntime="60" />
@@ -1140,6 +1263,9 @@
 	<spawn centerx="891" centery="97" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1057" centery="97" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="917" centery="98" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1151,6 +1277,15 @@
 	</spawn>
 	<spawn centerx="885" centery="100" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="100" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1058" centery="100" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1064" centery="100" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="864" centery="101" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
@@ -1170,6 +1305,15 @@
 	<spawn centerx="862" centery="104" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1035" centery="104" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1042" centery="104" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="104" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="98" centery="105" centerz="6" radius="5">
 		<monster name="Rabbit" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1185,6 +1329,15 @@
 	<spawn centerx="885" centery="107" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1049" centery="107" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1058" centery="107" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1067" centery="108" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="890" centery="110" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1195,6 +1348,9 @@
 		<monster name="Pig" x="0" y="-2" z="6" spawntime="240" />
 		<monster name="Pig" x="-2" y="0" z="6" spawntime="240" />
 		<monster name="Pig" x="0" y="3" z="6" spawntime="240" />
+	</spawn>
+	<spawn centerx="1045" centery="114" centerz="6" radius="1">
+		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="582" centery="175" centerz="6" radius="1">
 		<monster name="Cyclops Drone" x="0" y="0" z="6" spawntime="60" />
@@ -1839,8 +1995,14 @@
 	<spawn centerx="583" centery="173" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="674" centery="175" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="539" centery="177" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="670" centery="177" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="548" centery="179" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
@@ -1851,14 +2013,27 @@
 	<spawn centerx="574" centery="181" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="652" centery="181" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="674" centery="181" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="539" centery="182" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="595" centery="183" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="641" centery="183" centerz="7" radius="1" />
 	<spawn centerx="559" centery="185" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="186" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="676" centery="186" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="581" centery="188" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
@@ -1866,8 +2041,14 @@
 	<spawn centerx="584" centery="188" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="642" centery="188" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="546" centery="189" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="676" centery="193" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="594" centery="194" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
@@ -1881,11 +2062,44 @@
 	<spawn centerx="565" centery="196" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="669" centery="196" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="637" centery="199" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="676" centery="199" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="577" centery="200" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="567" centery="202" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="632" centery="203" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="662" centery="203" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="633" centery="206" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="646" centery="207" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="672" centery="207" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="662" centery="209" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="638" centery="210" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="210" centerz="7" radius="1">
+		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="567" centery="211" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
