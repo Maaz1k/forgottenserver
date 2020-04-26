@@ -1088,6 +1088,9 @@
 	<spawn centerx="1062" centery="74" centerz="6" radius="1">
 		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="502" centery="75" centerz="6" radius="1">
+		<monster name="Vampires" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="504" centery="75" centerz="6" radius="1">
 		<monster name="Ice Witches" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
