@@ -18127,9 +18127,9 @@
 		<attribute key="decayTo" value="10152" />
 		<attribute key="description" value="This hammer is a worm's worst nightmare." />
 	</item>
-	<item id="10122" article="an" name="old pirate poem">
+	<item id="10122" article="a" name="teleport scroll">
 		<attribute key="weight" value="200" />
-		<attribute key="readable" value="1" />
+		<attribute key="readable" value="0" />
 	</item>
 	<item id="10123" article="a" name="pirate treasure map">
 		<attribute key="weight" value="830" />
