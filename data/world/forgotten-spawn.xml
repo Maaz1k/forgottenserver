@@ -2001,13 +2001,13 @@
 	<spawn centerx="583" centery="173" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="674" centery="175" centerz="7" radius="1">
+	<spawn centerx="680" centery="175" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="539" centery="177" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="670" centery="177" centerz="7" radius="1">
+	<spawn centerx="676" centery="177" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="548" centery="179" centerz="7" radius="1">
@@ -2019,10 +2019,10 @@
 	<spawn centerx="574" centery="181" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="652" centery="181" centerz="7" radius="1">
+	<spawn centerx="658" centery="181" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="674" centery="181" centerz="7" radius="1">
+	<spawn centerx="680" centery="181" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="539" centery="182" centerz="7" radius="1">
@@ -2031,14 +2031,14 @@
 	<spawn centerx="595" centery="183" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="641" centery="183" centerz="7" radius="1" />
+	<spawn centerx="647" centery="183" centerz="7" radius="1" />
 	<spawn centerx="559" centery="185" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="653" centery="186" centerz="7" radius="1">
+	<spawn centerx="659" centery="186" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="676" centery="186" centerz="7" radius="1">
+	<spawn centerx="682" centery="186" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="581" centery="188" centerz="7" radius="1">
@@ -2047,13 +2047,13 @@
 	<spawn centerx="584" centery="188" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="642" centery="188" centerz="7" radius="1">
+	<spawn centerx="648" centery="188" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="546" centery="189" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="676" centery="193" centerz="7" radius="1">
+	<spawn centerx="682" centery="193" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="594" centery="194" centerz="7" radius="1">
@@ -2068,13 +2068,13 @@
 	<spawn centerx="565" centery="196" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="669" centery="196" centerz="7" radius="1">
+	<spawn centerx="675" centery="196" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="637" centery="199" centerz="7" radius="1">
+	<spawn centerx="643" centery="199" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="676" centery="199" centerz="7" radius="1">
+	<spawn centerx="682" centery="199" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="577" centery="200" centerz="7" radius="1">
@@ -2083,28 +2083,28 @@
 	<spawn centerx="567" centery="202" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="632" centery="203" centerz="7" radius="1">
+	<spawn centerx="638" centery="203" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="662" centery="203" centerz="7" radius="1">
+	<spawn centerx="668" centery="203" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="633" centery="206" centerz="7" radius="1">
+	<spawn centerx="639" centery="206" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="646" centery="207" centerz="7" radius="1">
+	<spawn centerx="652" centery="207" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="672" centery="207" centerz="7" radius="1">
+	<spawn centerx="678" centery="207" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="662" centery="209" centerz="7" radius="1">
+	<spawn centerx="668" centery="209" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="638" centery="210" centerz="7" radius="1">
+	<spawn centerx="644" centery="210" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="652" centery="210" centerz="7" radius="1">
+	<spawn centerx="658" centery="210" centerz="7" radius="1">
 		<monster name="Hannibal" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="567" centery="211" centerz="7" radius="1">
