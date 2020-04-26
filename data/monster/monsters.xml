@@ -11,7 +11,7 @@
  <monster name="Edron" file="edron.xml"/>
  <monster name="Yalahar" file="yalahar.xml"/>
  <monster name="Dragon Hatchlings" file="dragonhatchlings.xml"/>
- <monster name="Frasirths" file="frasiriths.xml"/>
+ <monster name="Frasirths" file="frasirths.xml"/>
  <monster name="Hannibals" file="hannibals.xml"/>
  
  <!--Custom Monsters-->
