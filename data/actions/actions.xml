@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 	<!-- Scroll -->
-	<action fromid="10122" script="other/tpscroll.lua"/>
+	<action itemid="10122" script="other/tpscroll.lua"/>
 
 	<!-- Enchanting -->
 	<action fromid="2146" toid="2147" script="other/enchanting.lua" />
