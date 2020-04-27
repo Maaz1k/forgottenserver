@@ -17,7 +17,7 @@
  <monster name="Vampires" file="vampirespawn.xml"/>
  <monster name="Golems" file="golems.xml"/>
  <monster name="Dragons" file="dragonspawn.xml"/>
- <monster name="Nightstalkers" file="nightstalkers.xml/>
+ <monster name="Nightstalkers" file="nightstalkers.xml"/>
  
  <!--Custom Monsters-->
  <monster name="Hannibal" file="hannibal.xml"/>
