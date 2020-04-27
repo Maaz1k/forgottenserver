@@ -20,7 +20,8 @@
  <monster name="Nightstalkers" file="nightstalkers.xml/>
  
  <!--Custom Monsters-->
- 
+ <monster name="Hannibal" file="hannibal.xml"/>
+ <monster name="Frasirth" file="frasirith.xml"/>
  
  
  
