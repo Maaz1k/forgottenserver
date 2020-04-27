@@ -282,10 +282,12 @@
 	<spawn centerx="884" centery="78" centerz="4" radius="1">
 		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="1362" centery="78" centerz="4" radius="1" />
 	<spawn centerx="889" centery="80" centerz="4" radius="1">
 		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Amazon" x="1" y="0" z="4" spawntime="768" />
 	</spawn>
+	<spawn centerx="1362" centery="80" centerz="4" radius="1" />
 	<spawn centerx="876" centery="81" centerz="4" radius="1">
 		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -294,6 +296,9 @@
 	</spawn>
 	<spawn centerx="900" centery="82" centerz="4" radius="1">
 		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1364" centery="82" centerz="4" radius="1">
+		<monster name="Herald of Gloom" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="920" centery="83" centerz="4" radius="1">
 		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
@@ -492,6 +497,15 @@
 	<spawn centerx="922" centery="42" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1100" centery="44" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="44" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="44" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="846" centery="48" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -501,14 +515,33 @@
 	<spawn centerx="884" centery="51" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1100" centery="51" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="51" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="51" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1185" centery="52" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="840" centery="53" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1187" centery="53" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="864" centery="54" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="913" centery="55" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1186" centery="55" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Vampire Bride" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="887" centery="56" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -519,8 +552,23 @@
 	<spawn centerx="855" centery="57" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1113" centery="57" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="907" centery="58" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="58" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1161" centery="58" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1165" centery="58" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1170" centery="58" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="831" centery="59" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -537,8 +585,20 @@
 	<spawn centerx="843" centery="62" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1113" centery="62" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="62" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1184" centery="62" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="880" centery="63" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="63" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="928" centery="64" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -553,11 +613,26 @@
 		<monster name="Wasp" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Wasp" x="0" y="2" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1123" centery="67" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="845" centery="68" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="871" centery="68" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1107" centery="69" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1130" centery="69" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1162" centery="69" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1184" centery="69" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="850" centery="73" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -567,6 +642,12 @@
 	</spawn>
 	<spawn centerx="914" centery="73" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1130" centery="73" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1140" centery="73" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="835" centery="74" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -583,8 +664,26 @@
 	<spawn centerx="916" centery="76" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1135" centery="76" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1160" centery="76" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="76" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="867" centery="77" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1141" centery="77" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1148" centery="77" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1186" centery="77" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="875" centery="78" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -598,11 +697,17 @@
 	<spawn centerx="901" centery="80" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1172" centery="80" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="837" centery="81" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="872" centery="81" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1141" centery="81" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="881" centery="82" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -613,6 +718,12 @@
 	<spawn centerx="878" centery="83" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1161" centery="83" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="83" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="916" centery="85" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -621,6 +732,9 @@
 	</spawn>
 	<spawn centerx="934" centery="87" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="87" centerz="5" radius="1">
+		<monster name="Vampire" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="886" centery="88" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -634,17 +748,29 @@
 	<spawn centerx="917" centery="91" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1175" centery="91" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1180" centery="91" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="855" centery="92" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="879" centery="92" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="1180" centery="94" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="899" centery="95" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="929" centery="95" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="96" centerz="5" radius="1">
+		<monster name="Vampire Bride" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="861" centery="97" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -1087,6 +1213,15 @@
 	</spawn>
 	<spawn centerx="1062" centery="74" centerz="6" radius="1">
 		<monster name="Frasirth" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="496" centery="75" centerz="6" radius="1">
+		<monster name="Nightstalkers" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="498" centery="75" centerz="6" radius="1">
+		<monster name="Dragons" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="500" centery="75" centerz="6" radius="1">
+		<monster name="Golems" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="502" centery="75" centerz="6" radius="1">
 		<monster name="Vampires" x="0" y="0" z="6" spawntime="60" direction="2" />

@@ -15,6 +15,9 @@
  <monster name="Hannibals" file="hannibals.xml"/>
  <monster name="Ice Witches" file="icewitches.xml"/>
  <monster name="Vampires" file="vampirespawn.xml"/>
+ <monster name="Golems" file="golems.xml"/>
+ <monster name="Dragons" file="dragonspawn.xml"/>
+ <monster name="Nightstalkers" file="nightstalkers.xml/>
  
  <!--Custom Monsters-->
  <monster name="Frasirth" file="frasirith.xml"/>
