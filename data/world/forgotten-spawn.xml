@@ -2078,6 +2078,9 @@
 		<monster name="Spider" x="-3" y="1" z="7" spawntime="60" />
 		<monster name="Snake" x="4" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="565" centery="79" centerz="7" radius="1">
+		<monster name="Beginner Island" x="0" y="0" z="7" spawntime="60" direction="1" />
+	</spawn>
 	<spawn centerx="110" centery="80" centerz="7" radius="5">
 		<monster name="Wolf" x="-2" y="-2" z="7" spawntime="60" />
 		<monster name="Wolf" x="1" y="2" z="7" spawntime="60" />
