@@ -18,6 +18,7 @@
  <monster name="Golems" file="golems.xml"/>
  <monster name="Dragons" file="dragonspawn.xml"/>
  <monster name="Nightstalkers" file="nightstalkers.xml"/>
+ <monster name="Beginner Island" file="beginnerisland.xml"/>
  
  <!--Custom Monsters-->
  <monster name="Hannibal" file="hannibal.xml"/>
