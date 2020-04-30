@@ -25,7 +25,7 @@
  <!--Custom Monsters-->
  <monster name="Hannibal" file="hannibal.xml"/>
  <monster name="Frasirth" file="frasirith.xml"/>
- <monster name="Dark Rider"file="dark_rider.xml"/>
+ <monster name="Dark Rider" file="dark_rider.xml"/>
  
  
  
