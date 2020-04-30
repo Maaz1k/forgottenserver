@@ -19,10 +19,13 @@
  <monster name="Dragons" file="dragonspawn.xml"/>
  <monster name="Nightstalkers" file="nightstalkers.xml"/>
  <monster name="Beginner Island" file="beginnerisland.xml"/>
+ <monster name="Dark Riders" file="darkriders.xml"/>
+ 
  
  <!--Custom Monsters-->
  <monster name="Hannibal" file="hannibal.xml"/>
  <monster name="Frasirth" file="frasirith.xml"/>
+ <monster name="Dark Rider"file="dark_rider.xml"/>
  
  
  

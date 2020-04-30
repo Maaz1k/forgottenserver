@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dark Rider" nameDescription="a dark rider" race="undead" experience="13500" speed="400" manacost="0">
+	<health now="16000" max="16000" />
+	   <look type="665" head="95" body="76" legs="95" feet="76" addons="3" mount="630" corpse="5972"/>
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="90" />
+		<flag runonhealth="0" />
+	</flags>
+	<attacks>
+		<attack name="death" interval="2000" min="-200" max="-869" death="6" />
+		<attack name="energy" interval="2000" chance="30" radius="3" target="1" min="-950" max="-1350">
+			<attribute key="shootEffect" value="energyball" />
+			<attribute key="areaEffect" value="energy" />
+		</attack>
+		<attack name="death" interval="2000" chance="10" range="6" min="-550" max="-750">
+			<attribute key="shootEffect" value="death" />
+			<attribute key="areaEffect" value="mortarea" />
+		</attack>
+		<attack name="physical" interval="2000" chance="12" radius="3" target="0" min="-500" max="-600">
+			<attribute key="areaEffect" value="groundshaker" />
+		</attack>
+		<attack name="physical" interval="2000" chance="10" range="6" min="-500" max="-650">
+			<attribute key="shootEffect" value="throwingstar" />
+		</attack>	
+		<attack name="physical" interval="2000" chance="10" radius="1" target="1" min="-400" max="-600">
+			<attribute key="shootEffect" value="death" />
+			<attribute key="areaEffect" value="smallclouds" />
+		</attack>
+	</attacks>
+	<defenses armor="20" defense="20">
+		<defense name="healing" interval="2000" chance="10" min="280" max="395">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+	</defenses>
+	<elements>
+		<element firePercent="-10" />
+		<element physicalPercent="60" />
+	</elements>
+	<immunities>
+		<immunity death="1" />
+		<immunity drown="1" />
+		<immunity paralyze="1" />
+		<immunity invisible="1" />
+	</immunities>
+		
+	<voices interval="3000" chance="50">
+		<voice sentence="Your tomb awaits." />
+		<voice sentence="The grave is your home." />
+	    <voice sentence="My curse is our only hope." />			
+	</voices>
+	<loot>
+		<item id="2148" countmax="100" chance="100000"/><!-- gold coin -->
+		<item id="2152" countmax="20" chance="100000"/><!-- gold coin -->
+		<item id="2144" countmax="10" chance="15000" /><!-- black pearl -->
+		<item id="18418" countmax="3" chance="11000" /><!-- blue crystal splinter -->
+		<item id="18413" countmax="1" chance="12000" /><!-- blue crystal shard -->
+		<item id="2320" countmax="4" chance="10000"/><!-- skull -->
+		<item id="7590" countmax="2" chance="9600" /><!-- great mana potion -->
+		<item id="8473" countmax="2" chance="5300" /><!-- ultimate health potions -->
+		<item id="5912" countmax="1" chance="3500"/><!-- black skull -->
+		<item id="8472" countmax="2" chance="2300" /><!-- great spirit potions -->
+		<item id="6500" chance="1600" /><!-- demonic essence -->
+		<item id="2158" countmax="1" chance="1500"/><!-- blue gem -->
+		<item id="9969" countmax="1" chance="800"/><!-- blue piece of cloth -->
+		<item id="25383" countmax="1" chance="100"/><!-- visage of the end days -->
+		<item id="25414" countmax="1" chance="100"/><!-- death gaze -->
+	</loot>
+</monster>
