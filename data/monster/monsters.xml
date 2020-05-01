@@ -20,6 +20,7 @@
  <monster name="Nightstalkers" file="nightstalkers.xml"/>
  <monster name="Beginner Island" file="beginnerisland.xml"/>
  <monster name="Dark Riders" file="darkriders.xml"/>
+ <monster name="Casino" file="Casino.xml"/>
  
  
  <!--Custom Monsters-->

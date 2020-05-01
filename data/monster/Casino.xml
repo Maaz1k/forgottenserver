@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Casino" nameDescription="the Casino" race="blood" experience="580" speed="200">
+	<health now="1" max="1" />
+	<look type="132" head="58" body="114" legs="108" feet="108" addons="3"/>
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="1" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag staticattack="70" />
+		<flag lightlevel="0" />
+		<flag lightcolor="0" />
+		<flag targetdistance="4" />
+		<flag runonhealth="0" />
+		<flag canwalkonenergy="0" />
+		<flag canwalkonfire="0" />
+		<flag canwalkonpoison="0" />
+	</flags>
+	
+</monster>

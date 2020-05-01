@@ -476,6 +476,9 @@
 	<spawn centerx="788" centery="778" centerz="4" radius="2">
 		<npc name="Zoltan" x="-1" y="-1" z="4" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="1037" centery="1010" centerz="4" radius="1">
+		<monster name="Casino" x="0" y="0" z="4" spawntime="60" direction="1" />
+	</spawn>
 	<spawn centerx="894" centery="36" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -2076,6 +2079,9 @@
 	</spawn>
 	<spawn centerx="1046" centery="1008" centerz="6" radius="1">
 		<monster name="test" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="1016" centerz="6" radius="1">
+		<npc name="Banker" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="1870" centery="1376" centerz="6" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="6" spawntime="60" />
