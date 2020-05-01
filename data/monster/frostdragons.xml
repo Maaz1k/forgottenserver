@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Frost Dragons" nameDescription="the Frost Dragons spawn" race="undead" experience="2100" speed="240">
+	<health now="1800" max="1800" />
+	<look type="248" corpse="7091" />
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="1" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="70" />
+		<flag runonhealth="250" />
+		<flag canwalkonenergy="0" />
+	</flags>
+	
+</monster>
