@@ -1319,6 +1319,9 @@
 	<spawn centerx="912" centery="82" centerz="6" radius="1">
 		<monster name="Amazon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="502" centery="83" centerz="6" radius="1">
+		<monster name="Earth Elementals" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="504" centery="83" centerz="6" radius="1">
 		<monster name="Fire Devils" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -2484,9 +2487,7 @@
 		<monster name="Orc Spearman" x="5" y="0" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="-1" y="4" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="663" centery="336" centerz="7" radius="1">
-		<monster name="Blistering Fire Elemental" x="0" y="0" z="7" spawntime="180" />
-	</spawn>
+	<spawn centerx="663" centery="336" centerz="7" radius="1" />
 	<spawn centerx="712" centery="336" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="-1" y="0" z="7" spawntime="90" />
 	</spawn>
@@ -2499,9 +2500,7 @@
 	<spawn centerx="831" centery="336" centerz="7" radius="1">
 		<monster name="Charged Energy Elemental" x="0" y="-1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="647" centery="337" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="647" centery="337" centerz="7" radius="1" />
 	<spawn centerx="728" centery="337" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="-1" y="0" z="7" spawntime="180" />
 	</spawn>
@@ -2520,10 +2519,7 @@
 	<spawn centerx="974" centery="339" centerz="7" radius="1">
 		<monster name="Roaring Water Elemental" x="0" y="0" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="656" centery="340" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="-1" z="7" spawntime="90" />
-		<monster name="Blistering Fire Elemental" x="-1" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="656" centery="340" centerz="7" radius="1" />
 	<spawn centerx="292" centery="341" centerz="7" radius="5">
 		<monster name="Orc Berserker" x="-1" y="-4" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="2" y="0" z="7" spawntime="60" />
@@ -2551,18 +2547,14 @@
 	<spawn centerx="278" centery="344" centerz="7" radius="1">
 		<monster name="Smuggler" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="671" centery="344" centerz="7" radius="1">
-		<monster name="Blistering Fire Elemental" x="0" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="671" centery="344" centerz="7" radius="1" />
 	<spawn centerx="710" centery="345" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="-1" y="1" z="7" spawntime="180" />
 	</spawn>
 	<spawn centerx="744" centery="345" centerz="7" radius="1">
 		<monster name="Muddy Earth Elemental" x="0" y="-1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="641" centery="346" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="641" centery="346" centerz="7" radius="1" />
 	<spawn centerx="267" centery="347" centerz="7" radius="5">
 		<monster name="Orc Rider" x="1" y="-2" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="3" y="1" z="7" spawntime="60" />
@@ -2574,9 +2566,7 @@
 	<spawn centerx="955" centery="347" centerz="7" radius="1">
 		<monster name="Roaring Water Elemental" x="0" y="-1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="660" centery="348" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="-1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="660" centery="348" centerz="7" radius="1" />
 	<spawn centerx="755" centery="348" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="1" y="1" z="7" spawntime="90" />
 	</spawn>
@@ -2586,9 +2576,7 @@
 		<monster name="Orc Spearman" x="-5" y="0" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="-3" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="671" centery="349" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="671" centery="349" centerz="7" radius="1" />
 	<spawn centerx="862" centery="349" centerz="7" radius="1">
 		<monster name="Charged Energy Elemental" x="0" y="0" z="7" spawntime="180" />
 	</spawn>
@@ -2602,19 +2590,12 @@
 	<spawn centerx="966" centery="350" centerz="7" radius="1">
 		<monster name="Roaring Water Elemental" x="1" y="-1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="645" centery="352" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="645" centery="352" centerz="7" radius="1" />
 	<spawn centerx="944" centery="352" centerz="7" radius="1">
 		<monster name="Slick Water Elemental" x="-1" y="-1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="653" centery="353" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="-1" z="7" spawntime="90" />
-		<monster name="Blistering Fire Elemental" x="-1" y="1" z="7" spawntime="90" />
-	</spawn>
-	<spawn centerx="664" centery="353" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="653" centery="353" centerz="7" radius="1" />
+	<spawn centerx="664" centery="353" centerz="7" radius="1" />
 	<spawn centerx="708" centery="353" centerz="7" radius="1">
 		<monster name="Muddy Earth Elemental" x="0" y="-1" z="7" spawntime="180" />
 	</spawn>
@@ -2661,9 +2642,7 @@
 	<spawn centerx="314" centery="359" centerz="7" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="643" centery="359" centerz="7" radius="1">
-		<monster name="Blistering Fire Elemental" x="0" y="-1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="643" centery="359" centerz="7" radius="1" />
 	<spawn centerx="976" centery="359" centerz="7" radius="1">
 		<monster name="Slick Water Elemental" x="-1" y="0" z="7" spawntime="180" />
 		<monster name="Slick Water Elemental" x="1" y="1" z="7" spawntime="180" />
@@ -2680,9 +2659,7 @@
 	<spawn centerx="861" centery="360" centerz="7" radius="1">
 		<monster name="Overcharged Energy Elemental" x="1" y="0" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="648" centery="361" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="0" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="648" centery="361" centerz="7" radius="1" />
 	<spawn centerx="941" centery="361" centerz="7" radius="1">
 		<monster name="Slick Water Elemental" x="-1" y="1" z="7" spawntime="180" />
 	</spawn>
@@ -2718,9 +2695,7 @@
 		<monster name="Slick Water Elemental" x="1" y="0" z="7" spawntime="180" />
 		<monster name="Slick Water Elemental" x="-1" y="1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="649" centery="366" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="1" y="1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="649" centery="366" centerz="7" radius="1" />
 	<spawn centerx="848" centery="366" centerz="7" radius="1">
 		<monster name="Charged Energy Elemental" x="-1" y="-1" z="7" spawntime="180" />
 	</spawn>
@@ -2839,9 +2814,7 @@
 	<spawn centerx="832" centery="379" centerz="7" radius="1">
 		<monster name="Charged Energy Elemental" x="-1" y="-1" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="643" centery="380" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="-1" y="0" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="643" centery="380" centerz="7" radius="1" />
 	<spawn centerx="711" centery="382" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
@@ -2860,9 +2833,7 @@
 	<spawn centerx="975" centery="382" centerz="7" radius="1">
 		<monster name="Slick Water Elemental" x="-1" y="0" z="7" spawntime="180" />
 	</spawn>
-	<spawn centerx="652" centery="383" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="-1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="652" centery="383" centerz="7" radius="1" />
 	<spawn centerx="750" centery="383" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="0" y="-1" z="7" spawntime="180" />
 	</spawn>
@@ -2870,18 +2841,12 @@
 		<monster name="Orc Spearman" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Orc" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="663" centery="385" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="-1" z="7" spawntime="90" />
-	</spawn>
-	<spawn centerx="672" centery="385" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="-1" z="7" spawntime="180" />
-	</spawn>
+	<spawn centerx="663" centery="385" centerz="7" radius="1" />
+	<spawn centerx="672" centery="385" centerz="7" radius="1" />
 	<spawn centerx="706" centery="386" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
-	<spawn centerx="647" centery="387" centerz="7" radius="1">
-		<monster name="Blazing Fire Elemental" x="0" y="-1" z="7" spawntime="90" />
-	</spawn>
+	<spawn centerx="647" centery="387" centerz="7" radius="1" />
 	<spawn centerx="737" centery="387" centerz="7" radius="1">
 		<monster name="Jagged Earth Elemental" x="0" y="-1" z="7" spawntime="90" />
 	</spawn>
