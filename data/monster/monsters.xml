@@ -24,6 +24,9 @@
  <monster name="Frost Dragons" file="frostdragons.xml"/>
  <monster name="Elves" file="elvespawn.xml"/>
  <monster name="Dwarves" file="dwarvespawn.xml"/>
+ <monster name="Strong Orcs" file="strongorcs.xml"/>
+ <monster name="Servants" file="servantspawn.xml"/>
+ 
  
  
  <!--Custom Monsters-->

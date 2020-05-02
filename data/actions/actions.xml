@@ -243,7 +243,7 @@
 	<action itemid="23923" script="other/music.lua" />
 	<action fromid="26029" toid="26031" script="other/potions.lua" />
 	<action fromaid="15150" toaid="15151" script="ctf.lua" />
-	<action fromid="8989" toid="6969" script="other/step.lua" />
+
 	
 	
 	
