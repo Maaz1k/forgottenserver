@@ -8,4 +8,6 @@
 	<event type="death" name="PlayerDeath" script="playerdeath.lua" />
 	<event type="death" name="DropLoot" script="droploot.lua" />
 	<event type="extendedopcode" name="ExtendedOpcode" script="extendedopcode.lua" />
+	<event type="preparedeath" name="CTFDeath" script="ctf.lua" />
+    <event type="healthchange" name="CTFHealthChange" script="ctf.lua" />
 </creaturescripts>

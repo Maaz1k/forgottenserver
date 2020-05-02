@@ -242,4 +242,5 @@
 	<action fromid="20273" toid="20290" script="other/doors.lua" />
 	<action itemid="23923" script="other/music.lua" />
 	<action fromid="26029" toid="26031" script="other/potions.lua" />
+	<action fromaid="15150" toaid="15151" script="ctf.lua" />
 </actions>
