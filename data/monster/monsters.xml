@@ -26,7 +26,12 @@
  <monster name="Dwarves" file="dwarvespawn.xml"/>
  <monster name="Strong Orcs" file="strongorcs.xml"/>
  <monster name="Servants" file="servantspawn.xml"/>
+ <monster name="Funguses" file="funguses.xml"/>
+ <monster name="Fire Devils" file="firedevils.xml"/>
+ <monster name="Earth Elementals" file="earthelementals.xml"/>
  
+
+
  
  
  <!--Custom Monsters-->
@@ -371,6 +376,7 @@
 	<monster name="Deepling Tyrant" file="Deeplings/deepling_tyrant.xml" />
 	<monster name="Deepling Warrior" file="Deeplings/deepling_warrior.xml" />
 	<monster name="Deepling worker" file="Deeplings/deepling_worker.xml" />
+
 
 	<!-- Demons -->
 	<monster name="Askarak Demon" file="Demons/askarak_demon.xml" />
