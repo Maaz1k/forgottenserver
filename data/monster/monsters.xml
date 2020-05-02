@@ -22,6 +22,8 @@
  <monster name="Dark Riders" file="darkriders.xml"/>
  <monster name="Casino" file="Casino.xml"/>
  <monster name="Frost Dragons" file="frostdragons.xml"/>
+ <monster name="Elves" file="elvespawn.xml"/>
+ <monster name="Dwarves" file="dwarvespawn.xml"/>
  
  
  <!--Custom Monsters-->
