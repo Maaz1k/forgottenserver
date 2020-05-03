@@ -29,7 +29,11 @@
  <monster name="Funguses" file="funguses.xml"/>
  <monster name="Fire Devils" file="firedevils.xml"/>
  <monster name="Earth Elementals" file="earthelementals.xml"/>
- 
+ <monster name="Grim Reapers" file="grimreapers.xml"/>
+ <monster name="Pirates" file="piratespawn.xml"/>
+ <monster name="Dragon Lords" file="dragonlords.xml"/>
+ <monster name="Giant Spiders" file="giantspiders.xml"/>
+ <monster name="Nomads" file="nomads.xml"/>
 
 
  
