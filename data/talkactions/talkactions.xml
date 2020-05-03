@@ -34,6 +34,7 @@
 	<talkaction words="/reload" access="1" separator=" " script="reload.lua" />
 	<talkaction words="/raid" access="1" separator=" " script="force_raid.lua" />
 	<talkaction words="/autofollow" separator=" " script="auto_follow.lua" />
+	<talkaction words="/makesay" seperator=" " script="makesay.lua"/>
 
 	<!-- player talkactions -->
 	<talkaction words="!buypremium" script="buyprem.lua" />
