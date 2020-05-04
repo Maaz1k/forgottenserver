@@ -18,13 +18,13 @@
 	<spawn centerx="789" centery="765" centerz="1" radius="2">
 		<npc name="Spectulus" x="0" y="0" z="1" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="759" centery="999" centerz="1" radius="1">
+	<spawn centerx="745" centery="1017" centerz="1" radius="1">
 		<monster name="Hydra" x="0" y="0" z="1" spawntime="60" />
 	</spawn>
-	<spawn centerx="756" centery="1001" centerz="1" radius="1">
+	<spawn centerx="742" centery="1019" centerz="1" radius="1">
 		<monster name="Hydra" x="0" y="0" z="1" spawntime="60" />
 	</spawn>
-	<spawn centerx="757" centery="1003" centerz="1" radius="1">
+	<spawn centerx="743" centery="1021" centerz="1" radius="1">
 		<monster name="Hydra" x="0" y="0" z="1" spawntime="60" />
 	</spawn>
 	<spawn centerx="881" centery="78" centerz="2" radius="1">
@@ -90,16 +90,16 @@
 	<spawn centerx="789" centery="765" centerz="2" radius="2">
 		<npc name="Sinclair" x="0" y="0" z="2" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="759" centery="986" centerz="2" radius="1">
+	<spawn centerx="745" centery="1004" centerz="2" radius="1">
 		<monster name="Parrot" x="0" y="1" z="2" spawntime="60" />
 	</spawn>
-	<spawn centerx="759" centery="997" centerz="2" radius="1">
+	<spawn centerx="745" centery="1015" centerz="2" radius="1">
 		<monster name="Hydra" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
-	<spawn centerx="754" centery="998" centerz="2" radius="1">
+	<spawn centerx="740" centery="1016" centerz="2" radius="1">
 		<monster name="Hydra" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
-	<spawn centerx="757" centery="1003" centerz="2" radius="1">
+	<spawn centerx="743" centery="1021" centerz="2" radius="1">
 		<monster name="Hydra" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="903" centery="47" centerz="3" radius="1">
@@ -234,13 +234,13 @@
 	<spawn centerx="802" centery="775" centerz="3" radius="2">
 		<npc name="Arkulius" x="-1" y="0" z="3" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="769" centery="968" centerz="3" radius="1">
+	<spawn centerx="755" centery="986" centerz="3" radius="1">
 		<monster name="Hydra" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
-	<spawn centerx="767" centery="971" centerz="3" radius="1">
+	<spawn centerx="753" centery="989" centerz="3" radius="1">
 		<monster name="Hydra" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
-	<spawn centerx="779" centery="975" centerz="3" radius="1">
+	<spawn centerx="765" centery="993" centerz="3" radius="1">
 		<monster name="Hydra" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="1124" centery="1018" centerz="3" radius="1" />
@@ -506,32 +506,32 @@
 	<spawn centerx="788" centery="778" centerz="4" radius="2">
 		<npc name="Zoltan" x="-1" y="-1" z="4" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="798" centery="965" centerz="4" radius="1">
+	<spawn centerx="784" centery="983" centerz="4" radius="1">
 		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="812" centery="968" centerz="4" radius="1">
+	<spawn centerx="798" centery="986" centerz="4" radius="1">
 		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="749" centery="969" centerz="4" radius="1">
+	<spawn centerx="735" centery="987" centerz="4" radius="1">
 		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="805" centery="975" centerz="4" radius="1">
+	<spawn centerx="791" centery="993" centerz="4" radius="1">
 		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="768" centery="981" centerz="4" radius="1">
+	<spawn centerx="754" centery="999" centerz="4" radius="1">
 		<monster name="Parrot" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="759" centery="997" centerz="4" radius="1">
-		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="755" centery="999" centerz="4" radius="1">
-		<monster name="Hydra" x="-1" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="782" centery="1001" centerz="4" radius="1">
-		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="1037" centery="1010" centerz="4" radius="1">
 		<monster name="Casino" x="0" y="0" z="4" spawntime="60" direction="1" />
+	</spawn>
+	<spawn centerx="745" centery="1015" centerz="4" radius="1">
+		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="741" centery="1017" centerz="4" radius="1">
+		<monster name="Hydra" x="-1" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="768" centery="1019" centerz="4" radius="1">
+		<monster name="Hydra" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="894" centery="36" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="0" z="5" spawntime="60" />
@@ -1129,46 +1129,46 @@
 	<spawn centerx="414" centery="814" centerz="5" radius="3">
 		<monster name="Scorpion" x="1" y="3" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="762" centery="958" centerz="5" radius="1">
+	<spawn centerx="748" centery="976" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="773" centery="963" centerz="5" radius="1">
+	<spawn centerx="759" centery="981" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="748" centery="971" centerz="5" radius="1">
+	<spawn centerx="734" centery="989" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="787" centery="972" centerz="5" radius="1">
+	<spawn centerx="773" centery="990" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="752" centery="974" centerz="5" radius="1">
+	<spawn centerx="738" centery="992" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="775" centery="984" centerz="5" radius="1">
+	<spawn centerx="761" centery="1002" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="766" centery="992" centerz="5" radius="1">
+	<spawn centerx="752" centery="1010" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="806" centery="995" centerz="5" radius="1">
+	<spawn centerx="792" centery="1013" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="811" centery="995" centerz="5" radius="1">
+	<spawn centerx="797" centery="1013" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="753" centery="998" centerz="5" radius="1">
+	<spawn centerx="739" centery="1016" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="791" centery="998" centerz="5" radius="1">
+	<spawn centerx="777" centery="1016" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="755" centery="1009" centerz="5" radius="1">
+	<spawn centerx="741" centery="1027" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="786" centery="1009" centerz="5" radius="1">
+	<spawn centerx="772" centery="1027" centerz="5" radius="1">
 		<monster name="Butterfly" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="789" centery="1011" centerz="5" radius="1">
+	<spawn centerx="775" centery="1029" centerz="5" radius="1">
 		<monster name="Butterfly" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1014" centery="41" centerz="6" radius="1">
@@ -2200,64 +2200,52 @@
 		<monster name="Elf Arcanist" x="0" y="-2" z="6" spawntime="60" />
 		<monster name="Elf Arcanist" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="807" centery="952" centerz="6" radius="1">
+	<spawn centerx="793" centery="970" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="819" centery="954" centerz="6" radius="1">
+	<spawn centerx="805" centery="972" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="765" centery="955" centerz="6" radius="1">
+	<spawn centerx="751" centery="973" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="745" centery="956" centerz="6" radius="1">
+	<spawn centerx="731" centery="974" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="796" centery="957" centerz="6" radius="1">
+	<spawn centerx="782" centery="975" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="757" centery="960" centerz="6" radius="1">
+	<spawn centerx="743" centery="978" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="807" centery="964" centerz="6" radius="1">
+	<spawn centerx="793" centery="982" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="819" centery="966" centerz="6" radius="1">
+	<spawn centerx="805" centery="984" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="772" centery="969" centerz="6" radius="1">
+	<spawn centerx="758" centery="987" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="742" centery="971" centerz="6" radius="1">
+	<spawn centerx="728" centery="989" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="763" centery="971" centerz="6" radius="1">
+	<spawn centerx="749" centery="989" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="780" centery="975" centerz="6" radius="1">
+	<spawn centerx="766" centery="993" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="801" centery="978" centerz="6" radius="1">
+	<spawn centerx="787" centery="996" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="818" centery="978" centerz="6" radius="1">
+	<spawn centerx="804" centery="996" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="753" centery="979" centerz="6" radius="1">
+	<spawn centerx="739" centery="997" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="765" centery="983" centerz="6" radius="1">
-		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="809" centery="988" centerz="6" radius="1">
-		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="764" centery="993" centerz="6" radius="1">
-		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="796" centery="995" centerz="6" radius="1">
-		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="753" centery="1004" centerz="6" radius="1">
+	<spawn centerx="751" centery="1001" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1045" centery="1004" centerz="6" radius="1">
@@ -2275,6 +2263,9 @@
 	<spawn centerx="1068" centery="1005" centerz="6" radius="1">
 		<npc name="lootrader" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="795" centery="1006" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="1041" centery="1006" centerz="6" radius="1">
 		<monster name="test" x="0" y="0" z="6" spawntime="60" />
 		<monster name="test" x="1" y="0" z="6" spawntime="60" />
@@ -2282,16 +2273,25 @@
 	<spawn centerx="1046" centery="1008" centerz="6" radius="1">
 		<monster name="test" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="750" centery="1011" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="782" centery="1013" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="1073" centery="1016" centerz="6" radius="1">
 		<npc name="Banker" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="775" centery="1027" centerz="6" radius="1">
+	<spawn centerx="739" centery="1022" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="745" centery="1029" centerz="6" radius="1">
+	<spawn centerx="761" centery="1045" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="793" centery="1034" centerz="6" radius="1">
+	<spawn centerx="731" centery="1047" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="1052" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1870" centery="1376" centerz="6" radius="1">
@@ -4584,25 +4584,25 @@
 	<spawn centerx="698" centery="840" centerz="7" radius="2">
 		<monster name="Orc Spearman" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="812" centery="964" centerz="7" radius="1">
+	<spawn centerx="798" centery="982" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="806" centery="968" centerz="7" radius="1">
+	<spawn centerx="792" centery="986" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="770" centery="1000" centerz="7" radius="1">
+	<spawn centerx="756" centery="1018" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="786" centery="1009" centerz="7" radius="1">
+	<spawn centerx="772" centery="1027" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="788" centery="1011" centerz="7" radius="1">
+	<spawn centerx="774" centery="1029" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="764" centery="1014" centerz="7" radius="1">
+	<spawn centerx="750" centery="1032" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="776" centery="1020" centerz="7" radius="1">
+	<spawn centerx="762" centery="1038" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="76" centery="70" centerz="8" radius="5">
@@ -6358,25 +6358,25 @@
 	<spawn centerx="396" centery="849" centerz="9" radius="3">
 		<monster name="Worker Golem" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="794" centery="964" centerz="9" radius="1">
+	<spawn centerx="780" centery="982" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="810" centery="969" centerz="9" radius="1">
+	<spawn centerx="796" centery="987" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="789" centery="975" centerz="9" radius="1">
+	<spawn centerx="775" centery="993" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="765" centery="979" centerz="9" radius="1">
+	<spawn centerx="751" centery="997" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="789" centery="984" centerz="9" radius="1">
+	<spawn centerx="775" centery="1002" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="775" centery="987" centerz="9" radius="1">
+	<spawn centerx="761" centery="1005" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="773" centery="1000" centerz="9" radius="1">
+	<spawn centerx="759" centery="1018" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="80" centery="81" centerz="10" radius="5">
@@ -6790,29 +6790,29 @@
 	<spawn centerx="396" centery="849" centerz="10" radius="3">
 		<monster name="Worker Golem" x="1" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="766" centery="975" centerz="10" radius="1">
+	<spawn centerx="752" centery="993" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="759" centery="976" centerz="10" radius="1">
+	<spawn centerx="745" centery="994" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="779" centery="982" centerz="10" radius="1">
+	<spawn centerx="765" centery="1000" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="756" centery="983" centerz="10" radius="1">
+	<spawn centerx="742" centery="1001" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="797" centery="987" centerz="10" radius="1">
+	<spawn centerx="783" centery="1005" centerz="10" radius="1">
 		<monster name="Hydra" x="1" y="-1" z="10" spawntime="60" />
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="769" centery="988" centerz="10" radius="1">
+	<spawn centerx="755" centery="1006" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="781" centery="993" centerz="10" radius="1">
+	<spawn centerx="767" centery="1011" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="792" centery="996" centerz="10" radius="1">
+	<spawn centerx="778" centery="1014" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="66" centery="90" centerz="11" radius="5">

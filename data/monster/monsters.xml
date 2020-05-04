@@ -34,7 +34,7 @@
  <monster name="Dragon Lords" file="dragonlords.xml"/>
  <monster name="Giant Spiders" file="giantspiders.xml"/>
  <monster name="Nomads" file="nomads.xml"/>
- <monster name="Demons" file="demonspawn.xml"/>
+ <monster name="Demons" file="demonss.xml"/>
  <monster name="Giant Insects" file="giantinsects.xml"/>
  <monster name="Hydras" file="hydras.xml"/>
  <monster name="Werewolves" file="werewolves.xml"/>
