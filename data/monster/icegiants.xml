@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ice Golems" nameDescription="the Ice Golems spawn" race="undead" experience="1" speed="195">
+	<health now="1" max="1" />
+	<look type="261" corpse="7349" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag targetdistance="1" />
+		<flag canwalkonenergy="0" />
+		<flag canwalkonfire="0" />
+	</flags>
+</monster>

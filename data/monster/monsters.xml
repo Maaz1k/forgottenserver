@@ -38,6 +38,10 @@
  <monster name="Giant Insects" file="giantinsects.xml"/>
  <monster name="Hydras" file="hydras.xml"/>
  <monster name="Werewolves" file="werewolves.xml"/>
+ <monster name="Azraels" file="azraels.xml"/>
+ <monster name="Barbarians" file="barbariaspawn.xml"/>
+ <monster name="Ice Golems" file="icegiants.xml"/>
+ 
  
 
 

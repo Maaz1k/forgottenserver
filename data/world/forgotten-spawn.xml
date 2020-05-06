@@ -1361,6 +1361,13 @@
 	<spawn centerx="525" centery="75" centerz="6" radius="1">
 		<monster name="Werewolves" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="527" centery="75" centerz="6" radius="1">
+		<monster name="Azraels" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="529" centery="75" centerz="6" radius="1">
+		<monster name="Barbarians" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="531" centery="75" centerz="6" radius="1" />
 	<spawn centerx="546" centery="75" centerz="6" radius="1">
 		<monster name="Blue Butterfly" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1465,6 +1472,9 @@
 	</spawn>
 	<spawn centerx="521" centery="83" centerz="6" radius="1">
 		<monster name="Demons" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="523" centery="83" centerz="6" radius="1">
+		<monster name="Ice Giants" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="546" centery="83" centerz="6" radius="1">
 		<monster name="Blue Butterfly" x="0" y="0" z="6" spawntime="60" />

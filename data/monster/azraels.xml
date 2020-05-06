@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Azraels" nameDescription="the Azraels spawn" race="blood" experience="12500" speed="400" manacost="0">
+	<health now="14000" max="14000" />
+	 <look type="278" head="38" body="114" legs="114" feet="0" addons="3"/>
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="80" />
+		<flag runonhealth="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="200" max="-869" fire="6" />
+		<attack name="physical" interval="2000" chance="15" range="7" min="-170" max="-300">
+			<attribute key="shootEffect" value="poison" />
+		</attack>
+		
+		<attack name="fire" interval="2000" chance="30" range="6" min="-450" max="-650">
+			<attribute key="shootEffect" value="poisonarrow" />
+			<attribute key="areaEffect" value="poison" />
+		</attack>
+		
+		<attack name="physical" interval="2000" chance="30" range="6" min="-400" max="-550">
+			<attribute key="shootEffect" value="smallstone" />
+		</attack>	
+		<attack name="physical" interval="2000" chance="25" radius="1" target="1" min="-300" max="-500">
+			<attribute key="shootEffect" value="flammingarrow" />
+			<attribute key="areaEffect" value="fire" />
+		</attack>
+	</attacks>
+	<defenses armor="20" defense="20">
+		<defense name="healing" interval="2000" chance="10" min="180" max="295">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+	</defenses>
+	<elements>
+		<element firePercent="-10" />
+	</elements>
+	<immunities>
+		<immunity death="0" />
+		<immunity earth="0" />
+		<immunity drown="1" />
+		<immunity paralyze="1" />
+		<immunity invisible="1" />
+	</immunities>
+		
+	<voices interval="3000" chance="50">
+		<voice sentence="You look tasty!" />
+		<voice sentence="I smell fresh meat." />
+	    <voice sentence="Mmmm. Humans." />
+       			
+	</voices>
+	<loot>
+		<item id="2148" countmax="130" chance="90000" />	<!-- gold coin -->		
+		<item id="2152" countmax="9" chance="20000" />	<!-- gold coin -->		
+		
+		<item id="9971" countmax="1" chance="3967" />	<!-- Tribal Mask -->
+		<item id="7590" countmax="2" chance="9600" />	<!-- Great Mana Potion -->
+		<item id="8472" countmax="2" chance="2300" />	<!-- Great Spirit Potions -->
+
+		<item id="8473" countmax="2" chance="5300" />	<!-- Ultimate Health Potions, -->
+			
+		<item id="2155" chance="800" />	<!-- Green Gem -->
+				
+	</loot>
+</monster>
