@@ -41,6 +41,16 @@
  <monster name="Azraels" file="azraels.xml"/>
  <monster name="Barbarians" file="barbariaspawn.xml"/>
  <monster name="Ice Golems" file="icegolems.xml"/>
+ <monster name="Undead Dragons" file="undeaddragons.xml"/>
+ <monster name="Wyrms" file="wyrms.xml"/>
+ <monster name="Ghastly Dragons" file="ghastlydragons.xml"/>
+ <monster name="Drakens" file="drakens.xml"/>
+ <monster name="Haunted Treelings" file="hauntedtreelings.xml"/>
+ <monster name="Man Eating Trees" file="maneatingtrees.xml"/>
+ <monster name="Deeplings" file="deeplingspawn.xml"/>
+ <monster name="Undead Gladiators" file="undeadgladiators.xml"/>
+ 
+ 
  
  
 
