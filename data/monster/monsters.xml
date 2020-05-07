@@ -49,6 +49,7 @@
  <monster name="Man Eating Trees" file="maneatingtrees.xml"/>
  <monster name="Deeplings" file="deeplingspawn.xml"/>
  <monster name="Undead Gladiators" file="undeadgladiators.xml"/>
+ <monster name="Dark Mines" file="darkmines.xml"/>
  
  
  
