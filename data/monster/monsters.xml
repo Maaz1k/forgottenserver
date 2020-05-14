@@ -51,6 +51,9 @@
  <monster name="Undead Gladiators" file="undeadgladiators.xml"/>
  <monster name="Dark Mines" file="darkmines.xml"/>
  <monster name="Pits Of Inferno" file="poi.xml"/>
+ <monster name="Boss Room" file="bossroom.xml"/>
+ <monster name="Water Elementals" file="waterelementals.xml"/>
+ 
  
  
  
