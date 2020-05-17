@@ -381,9 +381,6 @@
 		<monster name="Black Knight" x="0" y="1" z="3" spawntime="120" />
 	</spawn>
 	<spawn centerx="420" centery="1330" centerz="3" radius="10">
-		<monster name="Dragon" x="-2" y="-5" z="3" spawntime="120" />
-		<monster name="Dragon" x="6" y="0" z="3" spawntime="120" />
-		<monster name="Dragon" x="-1" y="3" z="3" spawntime="120" />
 		<monster name="Dragon Lord" x="-6" y="5" z="3" spawntime="140" />
 	</spawn>
 	<spawn centerx="446" centery="1330" centerz="3" radius="5">
@@ -396,32 +393,18 @@
 		<monster name="Banshee" x="-3" y="-1" z="3" spawntime="300" />
 		<monster name="Kongra" x="-1" y="3" z="3" spawntime="300" />
 	</spawn>
-	<spawn centerx="454" centery="1345" centerz="3" radius="5">
-		<monster name="Dragon" x="0" y="-3" z="3" spawntime="120" />
-		<monster name="Dragon" x="1" y="-3" z="3" spawntime="120" />
-	</spawn>
-	<spawn centerx="419" centery="1352" centerz="3" radius="7">
-		<monster name="Dragon Lord" x="1" y="-1" z="3" spawntime="120" />
-		<monster name="Dragon Lord" x="-3" y="2" z="3" spawntime="120" />
-	</spawn>
+	<spawn centerx="454" centery="1345" centerz="3" radius="5" />
+	<spawn centerx="419" centery="1352" centerz="3" radius="7" />
 	<spawn centerx="495" centery="1355" centerz="3" radius="5">
 		<monster name="Kongra" x="3" y="-1" z="3" spawntime="300" />
 		<monster name="Kongra" x="-4" y="1" z="3" spawntime="300" />
 	</spawn>
-	<spawn centerx="469" centery="1356" centerz="3" radius="10">
-		<monster name="Dragon Lord" x="0" y="-2" z="3" spawntime="140" />
-		<monster name="Dragon" x="9" y="1" z="3" spawntime="120" />
-		<monster name="Dragon" x="-4" y="2" z="3" spawntime="120" />
-		<monster name="Dragon Lord" x="3" y="3" z="3" spawntime="140" />
-		<monster name="Dragon" x="-3" y="5" z="3" spawntime="120" />
-	</spawn>
+	<spawn centerx="469" centery="1356" centerz="3" radius="10" />
 	<spawn centerx="540" centery="1358" centerz="3" radius="5">
 		<monster name="Fire Elemental" x="0" y="-5" z="3" spawntime="120" />
 		<monster name="Fire Elemental" x="0" y="5" z="3" spawntime="120" />
 	</spawn>
-	<spawn centerx="452" centery="1365" centerz="3" radius="5">
-		<monster name="Dragon Lord" x="0" y="2" z="3" spawntime="140" />
-	</spawn>
+	<spawn centerx="452" centery="1365" centerz="3" radius="5" />
 	<spawn centerx="518" centery="1366" centerz="3" radius="5">
 		<monster name="Fire Elemental" x="-4" y="0" z="3" spawntime="300" />
 	</spawn>
@@ -445,17 +428,8 @@
 		<monster name="Fire Elemental" x="0" y="-5" z="3" spawntime="120" />
 		<monster name="Fire Elemental" x="2" y="4" z="3" spawntime="120" />
 	</spawn>
-	<spawn centerx="464" centery="1380" centerz="3" radius="7">
-		<monster name="Dragon Lord" x="-2" y="-4" z="3" spawntime="140" />
-		<monster name="Dragon" x="3" y="-3" z="3" spawntime="120" />
-		<monster name="Dragon" x="2" y="1" z="3" spawntime="120" />
-	</spawn>
-	<spawn centerx="425" centery="1381" centerz="3" radius="10">
-		<monster name="Dragon Lord" x="3" y="-6" z="3" spawntime="140" />
-		<monster name="Dragon Lord" x="4" y="-5" z="3" spawntime="140" />
-		<monster name="Dragon" x="0" y="3" z="3" spawntime="120" />
-		<monster name="Dragon Lord" x="-6" y="5" z="3" spawntime="140" />
-	</spawn>
+	<spawn centerx="464" centery="1380" centerz="3" radius="7" />
+	<spawn centerx="425" centery="1381" centerz="3" radius="10" />
 	<spawn centerx="522" centery="1381" centerz="3" radius="5">
 		<monster name="Fire Devil" x="0" y="-2" z="3" spawntime="300" />
 		<monster name="Fire Devil" x="0" y="1" z="3" spawntime="300" />
