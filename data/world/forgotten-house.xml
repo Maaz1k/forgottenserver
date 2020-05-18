@@ -1,4 +1,15 @@
 <?xml version="1.0"?>
 <houses>
+	<house name="" houseid="1883" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="172" />
+	<house name="" houseid="1884" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="113" />
+	<house name="" houseid="1885" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="136" />
+	<house name="" houseid="1886" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="95" />
+	<house name="" houseid="1887" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="315" />
+	<house name="" houseid="1888" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="183" />
+	<house name="" houseid="1889" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="185" />
+	<house name="" houseid="1890" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="165" />
+	<house name="" houseid="1899" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="116" />
+	<house name="" houseid="1900" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="569" />
+	<house name="" houseid="1901" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="472" />
 	<house name="" houseid="2463" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="571" />
 </houses>

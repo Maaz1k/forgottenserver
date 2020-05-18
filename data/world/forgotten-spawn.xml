@@ -1682,10 +1682,10 @@
 		<monster name="Dragon Lords" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="498" centery="75" centerz="6" radius="1">
-		<monster name="Strong Orcs" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Quaras" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="500" centery="75" centerz="6" radius="1">
-		<monster name="Dragons" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Strong Orcs" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="502" centery="75" centerz="6" radius="1">
 		<monster name="Vampires" x="0" y="0" z="6" spawntime="60" direction="2" />
@@ -1715,34 +1715,34 @@
 		<monster name="Hydras" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="523" centery="75" centerz="6" radius="1">
-		<monster name="Giant Insects" x="0" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="525" centery="75" centerz="6" radius="1">
-		<monster name="Deeplings" x="0" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="527" centery="75" centerz="6" radius="1">
-		<monster name="Werewolves" x="0" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="529" centery="75" centerz="6" radius="1">
-		<monster name="Haunted Treelings" x="0" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="531" centery="75" centerz="6" radius="1">
 		<monster name="Man Eating Trees" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="533" centery="75" centerz="6" radius="1">
+	<spawn centerx="525" centery="75" centerz="6" radius="1">
+		<monster name="Werewolves" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="527" centery="75" centerz="6" radius="1">
+		<monster name="Haunted Treelings" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="529" centery="75" centerz="6" radius="1">
+		<monster name="Deeplings" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="531" centery="75" centerz="6" radius="1">
 		<monster name="Wyrms" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="535" centery="75" centerz="6" radius="1">
+	<spawn centerx="533" centery="75" centerz="6" radius="1">
 		<monster name="Barbarians" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="537" centery="75" centerz="6" radius="1">
+	<spawn centerx="535" centery="75" centerz="6" radius="1">
 		<monster name="Ghastly Dragons" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="539" centery="75" centerz="6" radius="1">
+	<spawn centerx="537" centery="75" centerz="6" radius="1">
 		<monster name="Azraels" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="539" centery="75" centerz="6" radius="1">
+		<monster name="Yielothax" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="541" centery="75" centerz="6" radius="1">
-		<monster name="Undead Gladiators" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Dark Riders" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="543" centery="75" centerz="6" radius="1">
 		<monster name="Drakens" x="0" y="0" z="6" spawntime="60" direction="2" />
@@ -1839,13 +1839,13 @@
 		<monster name="Nightstalkers" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="510" centery="83" centerz="6" radius="1">
-		<monster name="Golems" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Crystal Spiders" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="512" centery="83" centerz="6" radius="1">
-		<monster name="Dark Riders" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Golems" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="514" centery="83" centerz="6" radius="1">
-		<monster name="Hannibals" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Water Elementals" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="521" centery="83" centerz="6" radius="1">
 		<monster name="Demons" x="0" y="0" z="6" spawntime="60" />
@@ -1854,10 +1854,29 @@
 		<monster name="Ice Golems" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="525" centery="83" centerz="6" radius="1">
-		<monster name="Undead Dragons" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Giant Insects" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="527" centery="83" centerz="6" radius="1">
-		<monster name="Water Elementals" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Undead Dragons" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="529" centery="83" centerz="6" radius="1">
+		<monster name="Hannibals" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="531" centery="83" centerz="6" radius="1">
+		<monster name="Zombies" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="533" centery="83" centerz="6" radius="1">
+		<monster name="Undead Gladiators" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="535" centery="83" centerz="6" radius="1" />
+	<spawn centerx="539" centery="83" centerz="6" radius="1">
+		<monster name="Haunted Dreams" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="541" centery="83" centerz="6" radius="1">
+		<monster name="Lost Prison" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="543" centery="83" centerz="6" radius="1">
+		<monster name="Catacombs" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="546" centery="83" centerz="6" radius="1">
 		<monster name="Blue Butterfly" x="0" y="0" z="6" spawntime="60" />

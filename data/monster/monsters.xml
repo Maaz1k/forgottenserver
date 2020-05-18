@@ -53,6 +53,13 @@
  <monster name="Pits Of Inferno" file="poi.xml"/>
  <monster name="Boss Room" file="bossroom.xml"/>
  <monster name="Water Elementals" file="waterelementals.xml"/>
+ <monster name="Quaras" file="quaraspawn.xml"/>
+ <monster name="Yielothax" file="yielothaxspawn.xml"/>
+ <monster name="Zombies" file="zombies.xml"/>
+ <monster name="Crystal Spiders" file="crystalspiders.xml"/>
+ <monster name="Catacombs" file="catacombs.xml"/>
+ <monster name="Lost Prison" file="lostprison.xml"/>
+ <monster name="Haunted Dreams" file="haunteddreams.xml"/>
  
  
  
