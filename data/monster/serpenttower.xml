@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Serpent Tower" namedescription="the Serpent Tower Quest" race="blood" experience="1" speed="120" manacost="275">
 	<health now="1" max="1" />
-	<look type="28" corpse="2817" />
+	<look type="81" corpse="2817" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
 		<flag summonable="0" />

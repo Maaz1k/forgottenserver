@@ -2959,6 +2959,9 @@
 		<monster name="Snake" x="-2" y="-1" z="7" spawntime="60" />
 		<monster name="Wolf" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="565" centery="73" centerz="7" radius="1">
+		<monster name="Ferumbras Citadel" x="0" y="0" z="7" spawntime="60" direction="1" />
+	</spawn>
 	<spawn centerx="572" centery="73" centerz="7" radius="1" />
 	<spawn centerx="85" centery="74" centerz="7" radius="5">
 		<monster name="Snake" x="-3" y="-4" z="7" spawntime="60" />
