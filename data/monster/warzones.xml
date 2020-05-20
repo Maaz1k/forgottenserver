@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Warzones" nameDescription="the Warzones Quest" race="blood" experience="45000" speed="470">
+	<health now="250000" max="250000" />
+	<look type="504" corpse="18443" />
+	<targetchange interval="5000" chance="8" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="0" />
+		<flag staticattack="50" />
+		<flag runonhealth="10000" />
+	</flags>
+</monster>

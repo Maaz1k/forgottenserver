@@ -65,7 +65,9 @@
  <monster name="Ferumbras Citadel" file="ferumbrascitadel.xml"/>
  <monster name="Space Elements" file="spaceelements.xml"/>
 <monster name="Serpent Tower" file="serpenttower.xml"/>
-
+<monster name="Demon Oak" file="demonoak.xml"/>
+<monster name="Warzones" file="warzones.xml"/>
+<monster name="Depth Lords" file="depthlords.xml"/>
  
  
  
