@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Mountain Protectors" nameDescription="the Mountain Protectors spawn" race="undead" experience="1" speed="240">
+	<health now="1" max="1" />
+	<look type="335" head="114" body="76" legs="38" feet="0" addons="3" />
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="1" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="70" />
+		<flag runonhealth="250" />
+		<flag canwalkonenergy="0" />
+	</flags>
+	
+</monster>
