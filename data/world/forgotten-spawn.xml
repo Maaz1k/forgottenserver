@@ -2981,6 +2981,9 @@
 	<spawn centerx="565" centery="77" centerz="7" radius="1">
 		<monster name="Dark Mines" x="0" y="0" z="7" spawntime="60" direction="1" />
 	</spawn>
+	<spawn centerx="572" centery="77" centerz="7" radius="1">
+		<monster name="Plague Land" x="0" y="0" z="7" spawntime="60" direction="3" />
+	</spawn>
 	<spawn centerx="66" centery="79" centerz="7" radius="5">
 		<monster name="Spider" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -2991,6 +2994,9 @@
 	</spawn>
 	<spawn centerx="565" centery="79" centerz="7" radius="1">
 		<monster name="Beginner Island" x="0" y="0" z="7" spawntime="60" direction="1" />
+	</spawn>
+	<spawn centerx="572" centery="79" centerz="7" radius="1">
+		<monster name="Hill Castle" x="0" y="0" z="7" spawntime="60" direction="3" />
 	</spawn>
 	<spawn centerx="110" centery="80" centerz="7" radius="5">
 		<monster name="Wolf" x="-2" y="-2" z="7" spawntime="60" />
@@ -5300,14 +5306,12 @@
 	<spawn centerx="50" centery="97" centerz="8" radius="5">
 		<monster name="Troll" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="681" centery="97" centerz="8" radius="1">
-		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="681" centery="97" centerz="8" radius="1" />
 	<spawn centerx="713" centery="97" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="686" centery="98" centerz="8" radius="1">
-		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="62" centery="99" centerz="8" radius="5">
 		<monster name="Troll" x="1" y="-2" z="8" spawntime="60" />
@@ -6412,6 +6416,7 @@
 		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="681" centery="107" centerz="9" radius="1">
+		<monster name="Rotworm" x="-1" y="0" z="9" spawntime="60" />
 		<monster name="Rottie the Rotworm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="709" centery="107" centerz="9" radius="1">

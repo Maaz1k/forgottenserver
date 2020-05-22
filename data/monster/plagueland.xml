@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Plague Land" nameDescription="the Plague Land quest" race="venom" experience="800" speed="240">
+	<health now="1300" max="1300" />
+	<look type="299" corpse="8951" />
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag staticattack="60" />
+		<flag targetdistance="1" />
+		<flag runonhealth="0" />
+		<flag canwalkonenergy="0" />
+		<flag canwalkonfire="0" />
+		<flag canwalkonpoison="0" />
+	</flags>
+</monster>

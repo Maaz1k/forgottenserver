@@ -68,6 +68,9 @@
 <monster name="Demon Oak" file="demonoak.xml"/>
 <monster name="Warzones" file="warzones.xml"/>
 <monster name="Depth Lords" file="depthlords.xml"/>
+<monster name="Hill Castle" file="hillcastle.xml"/>
+<monster name="Plague Land" file="plagueland.xml"/>
+
  
  
  
