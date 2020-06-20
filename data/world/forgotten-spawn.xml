@@ -5217,6 +5217,9 @@
 	<spawn centerx="756" centery="1018" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1370" centery="1018" centerz="7" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="772" centery="1027" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>

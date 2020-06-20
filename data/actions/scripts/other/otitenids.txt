@@ -1,0 +1,77 @@
+2870;29//Grey Backpack//29 means open it like a bag;469
+3031;1//Gold12860,13341
+8027;2
+3035;2
+3032;1
+3033;1
+3027;1
+14087;1
+14088;2
+14089;2
+9057;1
+3326;2
+0816;2//lightning pendant
+8043;2//focus cape
+3360;2//Golden Armor
+3366;2//Magic Plate Armor
+3370;2//Knight Armor 
+3381;2//Crown Armor
+3386;2//Dragon Scale Mail 
+3888;2//Demon Armor
+3394;2//Lady Armor
+3402;2//Native Armor 
+3397;2//Dwarven Armor 
+3567;2//Blue Robe
+3363;2//Dragon Scale Legs     *Legs
+3364;9//Golden Legs
+3371;2//Knight Legs
+3382;2//Crown Legs
+3389;2//Demon Legs
+3398;2//Dwarven Legs 
+3401;2//Elven Legs
+3368;2//Winged Helmet
+3369;2//Warrior Helmet
+3387;2//Demon Helmet
+3390;2//Horned Helmet
+3391;2//Crusader Helmet
+3392;2//Royal Helmet
+3281;9//Giant Sword
+3288;2//Magic Sword
+3295;2//Bright Sword
+3296;2//Warlord Sword
+3302;2//Dragon Lance
+3303;9//Great Axe
+3319;2//Stonecutter's Axe
+3320;9//Fire Axe
+3324;2//Skull Staff
+3332;2//Hammer of Wrath
+3309;2//Thunder Hammer
+3333;2//Crystal Mace
+3334;2//Pharaoh Sword
+3335;2//Twin Axe
+3339;2//Djinn Blade
+3341;2//Arcane Staff
+3342;2//War Axe
+3414;2//Mastermind Shield
+3419;2//Crown Shield
+3420;2//Demon Shield
+3427;2//Rose Shield
+3428;2//Tower Shield
+3434;2//Vampire Shield
+3435;2//Castle Shield
+3436;2//Medusa Shield
+3437;2//Amazon Shield
+3438;2//Eagle Shield
+3439;2//Phoenix Shield
+3422;2//Great Shield
+3048;2//Might Ring     *Rings
+3053;2//Time Ring
+3057;2//Amulet of Loss
+3080;2//Broken Amulet
+3081;2//Stone Skin Amulet
+3079;2//Boots of Haste   *Boots
+3553;2//Bunny Slippers
+3554;2//Steel Boots
+3555;2//Golden Boots
+3043;1//Crystal Coin
+a
