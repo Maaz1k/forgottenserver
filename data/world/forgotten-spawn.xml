@@ -5208,11 +5208,20 @@
 	<spawn centerx="698" centery="840" centerz="7" radius="2">
 		<monster name="Orc Spearman" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1362" centery="977" centerz="7" radius="1">
+		<npc name="The Forgotten King" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="798" centery="982" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="792" centery="986" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1428" centery="1000" centerz="7" radius="1">
+		<npc name="Eryn" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1407" centery="1011" centerz="7" radius="1">
+		<npc name="Banker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="756" centery="1018" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
