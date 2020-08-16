@@ -5220,6 +5220,9 @@
 	<spawn centerx="1428" centery="1000" centerz="7" radius="1">
 		<npc name="Eryn" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="1392" centery="1008" centerz="7" radius="1">
+		<monster name="Quest Room" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1407" centery="1011" centerz="7" radius="1">
 		<npc name="Banker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
