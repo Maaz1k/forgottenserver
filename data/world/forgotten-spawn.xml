@@ -2649,18 +2649,10 @@
 	<spawn centerx="751" centery="1001" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="1045" centery="1004" centerz="6" radius="1">
-		<monster name="Hunting Room" x="0" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="1047" centery="1004" centerz="6" radius="1">
-		<monster name="Quest Room" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="1049" centery="1004" centerz="6" radius="1">
-		<monster name="Trainers" x="0" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="1051" centery="1004" centerz="6" radius="1">
-		<monster name="Towns" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
+	<spawn centerx="1045" centery="1004" centerz="6" radius="1" />
+	<spawn centerx="1047" centery="1004" centerz="6" radius="1" />
+	<spawn centerx="1049" centery="1004" centerz="6" radius="1" />
+	<spawn centerx="1051" centery="1004" centerz="6" radius="1" />
 	<spawn centerx="1068" centery="1005" centerz="6" radius="1">
 		<npc name="lootrader" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -5227,13 +5219,13 @@
 		<monster name="Quest Room" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1392" centery="1010" centerz="7" radius="1">
-		<monster name="Towns" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Trainers" x="0" y="0" z="7" spawntime="60" direction="1" />
 	</spawn>
 	<spawn centerx="1407" centery="1011" centerz="7" radius="1">
 		<npc name="Banker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1392" centery="1012" centerz="7" radius="1">
-		<monster name="Trainers" x="0" y="0" z="7" spawntime="60" direction="1" />
+		<monster name="Towns" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="756" centery="1018" centerz="7" radius="1">
 		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
