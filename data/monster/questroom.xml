@@ -4,8 +4,8 @@
 	<look typeex="1752" corpse="20323"/>
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="1" />
-		<flag attackable="1" />
+		<flag summonable="0" />
+		<flag attackable="0" />
 		<flag hostile="1" />
 		<flag illusionable="1" />
 		<flag convinceable="0" />
