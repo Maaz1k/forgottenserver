@@ -5,6 +5,7 @@
 	<globalevent name="Server Save" time="09:55:00" script="serversave.lua" />
 	<globalevent name="text" interval="3500" script="text.lua"/>
 	<globalevent name="Capture The Flag" time="22:20:00" script="ctf.lua" />
+	<globalevent name="xxx" interval="1000" script="x.lua"/>
 	
 	<!--
 	<globalevent name="timer_example" time="12:00:00" script="my_script.lua" />
