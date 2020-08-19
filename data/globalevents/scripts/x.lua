@@ -11,7 +11,7 @@ end
 
 
 local effects = {
-    {pos = Position(1398, 1008, 7), magicEffect = CONST_ME_MAGICXXXXXXX, text = "Tiaptra"}
+    {pos = Position(1398, 1008, 7), magicEffect = CONST_ME_TELEPORT, text = "Tiaptra"}
 }
 
 function onThink()
