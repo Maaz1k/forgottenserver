@@ -70,3 +70,24 @@ function Position:isInRange(from, to)
 	end
 	return false
 end
+
+function Position.sendMessage(self, message, talktype)
+    local specs = Game.getSpectators(self, false, true, 7, 7, 5, 5)
+    if #specs > 0 then
+        for i = 1, #specs do
+            local player = specs[i]
+            player:say(message, talktype or TALKTYPE_MONSTER_SAY, false, player, self)
+        end
+    end
+end
+local positions = {
+    ["Tiaptra"] = Position(1398, 1008, 7),
+    -- etc
+}
+
+local effects = {39, 34}
+
+for text, position in pairs(positions) do
+    position:sendMessage(text) -- default is TALKTYPE_MONSTER_SAY
+    position:sendMagicEffect(effects[math.random(#effects)])
+end
