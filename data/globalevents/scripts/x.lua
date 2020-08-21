@@ -1,5 +1,5 @@
 local effects = {
-    {pos = Position(1398, 1008, 7), animation = nil, text = "Tiaptra"},
+    {pos = Position(1398, 1008, 7), animation = CONST_ME_TELEPORT, text = "Tiaptra"},
 }
 
 function onThink()
