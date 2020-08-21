@@ -1,24 +1,18 @@
-function Position.sendMessage(self, message, talktype)
-    local specs = Game.getSpectators(self, false, true, 7, 7, 5, 5)
-    if #specs > 0 then
-        for i = 1, #specs do
-            local player = specs[i]
-            player:say(message, talktype or TALKTYPE_MONSTER_SAY, false, player, self)
-        end
-    end
-end
-
-
-
 local effects = {
-    {pos = Position(1398, 1008, 7), magicEffect = CONST_ME_TELEPORT, text = "Tiaptra"}
+    {pos = Position(1398, 1008, 7), animation = nil, text = "Tiaptra"},
 }
 
 function onThink()
-    for _, v in pairs(effects) do
-        v.magicEffect:sendMagicEffect(magicEffect)
-        if v.text ~= "" then
-            v.pos:sendMessage(v.text)
+    for _, effect in pairs(effects) do
+        if effect.animation and effect.animation ~= CONST_ME_NONE then
+            effect.pos:sendMagicEffect(effect.animation)
+        end
+
+        if effect.text and effect.text ~= "" then
+            for _, spec in pairs(Game.getSpectators(effect.pos, false, true, 7, 7, 5, 5)) do
+                spec:say(effect.text, TALKTYPE_MONSTER_SAY, false, nil, effect.pos)
+                break
+            end
         end
     end
     return true
