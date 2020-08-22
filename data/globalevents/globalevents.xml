@@ -5,8 +5,12 @@
 	<globalevent name="Server Save" time="09:55:00" script="serversave.lua" />
 	<globalevent name="text" interval="3500" script="text.lua"/>
 	<globalevent name="Capture The Flag" time="22:20:00" script="ctf.lua" />
-	<globalevent name="xxx" interval="4000" script="x.lua"/>
-	<globalevent name="xxxx" interval="4000" script="c.lua"/>
+	<globalevent name="xxx" interval="3000" script="x.lua"/>
+	<globalevent name="xxxx" interval="3000" script="c.lua"/>
+	<globaevent name="xxxxx" interval="3000" script="v.lua"/>
+	<globaevent name="xxxxxx" interval="3000" script="b.lua"/>
+	<globaevent name="xxxxxxx" interval="3000" script="n.lua"/>
+	
 	
 	<!--
 	<globalevent name="timer_example" time="12:00:00" script="my_script.lua" />
