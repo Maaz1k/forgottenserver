@@ -1,5 +1,5 @@
 local effects = {
-    {pos = Position(1393, 1006, 7), animation = CONST_ME_FIREWORK_YELLOW, text = ""},
+    {pos = Position(1393, 1006, 7), animation = CONST_ME_FIREWORK_YELLOW, text = "Monsters"},
 }
 
 function onThink()
